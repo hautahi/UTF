@@ -1,0 +1,58 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                          333,912,475.0500                                            NY                       
+              09/01/2009               -27,965,260.0000  DI-2110 STATE UI WITHDRAW   3269318       NY                       
+              09/02/2009                   387,450.6200  CO-1110 STATE DEPOSITS      3269342       NY                       
+              09/02/2009               -34,733,440.0000  DI-2110 STATE UI WITHDRAW   3269343       NY                       
+              09/02/2009                   125,737.4400  CO-3461 CWC IN              3269344       NY                       
+              09/02/2009                   -42,357.0100  DI-3460 CWC OUT             3269345       NY                       
+              09/02/2009                  -144,065.7000  DI-3460 CWC OUT             3269346       NY                       
+              09/02/2009                   -18,587.3000  DI-3460 CWC OUT             3269347       NY                       
+              09/03/2009               -18,998,320.0000  DI-2110 STATE UI WITHDRAW   3269349       NY                       
+              09/04/2009                 1,660,592.4900  CO-1110 STATE DEPOSITS      3269369       NY                       
+              09/04/2009                -6,909,080.0000  DI-2110 STATE UI WITHDRAW   3269392       NY                       
+              09/08/2009                   848,397.0600  CO-1110 STATE DEPOSITS      3269394       NY                       
+              09/08/2009                 1,910,105.6500  CO-3461 CWC IN              3269395       NY                       
+              09/08/2009                   148,581.9700  CO-3461 CWC IN              3269396       NY                       
+              09/08/2009                -4,679,910.0000  DI-2110 STATE UI WITHDRAW   3269397       NY                       
+              09/09/2009                 1,171,402.1700  CO-1110 STATE DEPOSITS      3269399       NY                       
+              09/09/2009               -43,632,490.0000  DI-2110 STATE UI WITHDRAW   3269400       NY                       
+              09/10/2009                   844,427.5100  CO-1110 STATE DEPOSITS      3269402       NY                       
+              09/10/2009               -29,920,680.0000  DI-2110 STATE UI WITHDRAW   3269429       NY                       
+              09/11/2009                   435,958.2200  CO-1110 STATE DEPOSITS      3269431       NY                       
+              09/11/2009               -11,196,720.0000  DI-2110 STATE UI WITHDRAW   3269452       NY                       
+              09/14/2009                   264,896.6800  CO-1110 STATE DEPOSITS      3269454       NY                       
+              09/14/2009                -6,010,720.0000  DI-2110 STATE UI WITHDRAW   3269475       NY                       
+              09/15/2009                 1,038,943.3400  CO-1110 STATE DEPOSITS      3269477       NY                       
+              09/15/2009                    15,052.9000  CO-3461 CWC IN              3269514       NY                       
+              09/15/2009               -24,123,810.0000  DI-2110 STATE UI WITHDRAW   3269515       NY                       
+              09/16/2009                   351,435.2700  CO-1110 STATE DEPOSITS      3269517       NY                       
+              09/16/2009               -31,100,110.0000  DI-2110 STATE UI WITHDRAW   3269534       NY                       
+              09/17/2009                   135,024.6000  CO-1110 STATE DEPOSITS      3269536       NY                       
+              09/17/2009               -18,182,060.0000  DI-2110 STATE UI WITHDRAW   3269553       NY                       
+              09/17/2009                  -215,458.6800  DI-3460 CWC OUT             3269554       NY                       
+              09/18/2009                    55,801.6000  CO-1110 STATE DEPOSITS      3269556       NY                       
+              09/18/2009                -6,856,740.0000  DI-2110 STATE UI WITHDRAW   3269577       NY                       
+              09/21/2009                   285,383.0700  CO-1110 STATE DEPOSITS      3269579       NY                       
+              09/21/2009                -4,764,500.0000  DI-2110 STATE UI WITHDRAW   3269600       NY                       
+              09/21/2009                     4,207.8600  CO-3461 CWC IN              3269601       NY                       
+              09/22/2009                   420,178.8700  CO-1110 STATE DEPOSITS      3269603       NY                       
+              09/22/2009               -22,191,660.0000  DI-2110 STATE UI WITHDRAW   3269620       NY                       
+              09/22/2009                     1,960.8800  CO-3461 CWC IN              3269621       NY                       
+              09/23/2009                   516,818.8300  CO-1110 STATE DEPOSITS      3269623       NY                       
+              09/24/2009                -3,367,284.3900  DI-2110 STATE UI WITHDRAW   3269641       NY                       
+              09/28/2009                   906,092.5100  CO-1110 STATE DEPOSITS      3269659       NY                       
+              09/28/2009                  -906,092.5100  DI-2110 STATE UI WITHDRAW   3269682       NY                       
+              09/29/2009                   555,710.4400  CO-1110 STATE DEPOSITS      3269683       NY                       
+              09/29/2009                  -555,710.4400  DI-2110 STATE UI WITHDRAW   3269700       NY                       
+              09/30/2009                   403,812.0200  CO-1110 STATE DEPOSITS      3269701       NY                       
+              09/30/2009                  -403,812.0200  DI-2110 STATE UI WITHDRAW   3269718       NY                       
+              09/30/2009                   112,945.7400  CO-3461 CWC IN              3269719       NY                       
+              09/30/2009                         0.0000                              3269735       NY                       
+              09/30/2009                 4,236,565.4800  CO-5440 DIST QUART EARNIN   3269736       NY                       
+    Ending                              53,831,090.2200                                            NY                       
+ 

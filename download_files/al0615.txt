@@ -1,0 +1,69 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                          463,592,276.7400                                            AL                       
+              06/01/2015                  -100,000.0000  21-10 STATE UI WITHDRAWAL   3304763       AL                       
+              06/02/2015                    15,000.0000  11-10 STATE DEPOSITS        3304765       AL                       
+              06/02/2015                -3,059,950.0000  21-10 STATE UI WITHDRAWAL   3304782       AL                       
+              06/03/2015                    51,000.0000  11-10 STATE DEPOSITS        3304784       AL                       
+              06/03/2015                  -281,000.0000  21-10 STATE UI WITHDRAWAL   3304801       AL                       
+              06/03/2015                     2,345.1700  34-61 CWC IN                3304802       AL                       
+              06/04/2015                  -164,500.0000  21-10 STATE UI WITHDRAWAL   3304820       AL                       
+              06/05/2015                   -50,250.0000  21-10 STATE UI WITHDRAWAL   3304842       AL                       
+              06/05/2015                   -88,123.2200  34-60 CWC OUT               3304843       AL                       
+              06/08/2015                  -166,400.0000  21-10 STATE UI WITHDRAWAL   3304865       AL                       
+              06/08/2015                        69.9500  34-61 CWC IN                3304866       AL                       
+              06/08/2015                       164.9000  34-61 CWC IN                3304867       AL                       
+              06/08/2015                     2,267.0500  34-61 CWC IN                3304868       AL                       
+              06/09/2015                    25,000.0000  11-10 STATE DEPOSITS        3304870       AL                       
+              06/09/2015                -3,050,500.0000  21-10 STATE UI WITHDRAWAL   3304887       AL                       
+              06/09/2015                  -153,122.2600  34-60 CWC OUT               3304888       AL                       
+              06/10/2015                  -313,150.0000  21-10 STATE UI WITHDRAWAL   3304906       AL                       
+              06/11/2015                    17,000.0000  11-10 STATE DEPOSITS        3304908       AL                       
+              06/11/2015                  -162,550.0000  21-10 STATE UI WITHDRAWAL   3304925       AL                       
+              06/12/2015                    19,000.0000  11-10 STATE DEPOSITS        3304927       AL                       
+              06/12/2015                   -26,500.0000  21-10 STATE UI WITHDRAWAL   3304948       AL                       
+              06/12/2015                  -166,300.0000  21-10 STATE UI WITHDRAWAL   3304949       AL                       
+              06/12/2015                  -106,197.0000  34-10 BT FROM UI            3304950       AL                       
+              06/15/2015                    24,000.0000  11-10 STATE DEPOSITS        3304952       AL                       
+              06/15/2015                  -108,300.0000  21-10 STATE UI WITHDRAWAL   3304973       AL                       
+              06/16/2015                    44,000.0000  11-10 STATE DEPOSITS        3304975       AL                       
+              06/16/2015                -3,115,900.0000  21-10 STATE UI WITHDRAWAL   3304992       AL                       
+              06/17/2015                  -300,400.0000  21-10 STATE UI WITHDRAWAL   3305010       AL                       
+              06/17/2015                    -2,348.0200  34-60 CWC OUT               3305011       AL                       
+              06/17/2015                    -2,747.7500  34-60 CWC OUT               3305012       AL                       
+              06/18/2015                   202,000.0000  11-10 STATE DEPOSITS        3305014       AL                       
+              06/18/2015                  -158,200.0000  21-10 STATE UI WITHDRAWAL   3305031       AL                       
+              06/18/2015                     1,918.1900  34-61 CWC IN                3305032       AL                       
+              06/19/2015                   108,000.0000  11-10 STATE DEPOSITS        3305034       AL                       
+              06/19/2015                  -151,650.0000  21-10 STATE UI WITHDRAWAL   3305055       AL                       
+              06/19/2015                   -69,500.0000  34-10 BT FROM UI            3305056       AL                       
+              06/19/2015                     3,787.5800  34-61 CWC IN                3305057       AL                       
+              06/19/2015                   -67,739.4500  34-60 CWC OUT               3305058       AL                       
+              06/22/2015                    89,000.0000  11-10 STATE DEPOSITS        3305060       AL                       
+              06/22/2015                  -164,700.0000  21-10 STATE UI WITHDRAWAL   3305081       AL                       
+              06/23/2015                    85,000.0000  11-10 STATE DEPOSITS        3305083       AL                       
+              06/23/2015                   -69,901.2800  21-80 W/D FOR SPEC ADMIN    3305100       AL                       
+              06/23/2015                -3,219,800.0000  21-10 STATE UI WITHDRAWAL   3305101       AL                       
+              06/24/2015                    43,000.0000  11-10 STATE DEPOSITS        3305103       AL                       
+              06/24/2015                  -270,900.0000  21-10 STATE UI WITHDRAWAL   3305120       AL                       
+              06/24/2015                   -29,684.0000  34-10 BT FROM UI            3305121       AL                       
+              06/24/2015                    -5,388.0000  11-10 STATE DEPOSITS        3305122       AL                       
+              06/25/2015                    88,000.0000  11-10 STATE DEPOSITS        3305124       AL                       
+              06/25/2015                  -160,900.0000  21-10 STATE UI WITHDRAWAL   3305141       AL                       
+              06/26/2015                    53,000.0000  11-10 STATE DEPOSITS        3305143       AL                       
+              06/26/2015                  -147,850.0000  21-10 STATE UI WITHDRAWAL   3305164       AL                       
+              06/29/2015                    50,000.0000  11-10 STATE DEPOSITS        3305166       AL                       
+              06/29/2015                  -148,550.0000  21-10 STATE UI WITHDRAWAL   3305187       AL                       
+              06/30/2015                    75,000.0000  11-10 STATE DEPOSITS        3305188       AL                       
+              06/30/2015                  -128,671.0900  21-80 W/D FOR SPEC ADMIN    3305280       AL                       
+              06/30/2015                -3,226,650.0000  21-10 STATE UI WITHDRAWAL   3305281       AL                       
+              06/30/2015                   -38,652.0000  34-10 BT FROM UI            3305282       AL                       
+              06/30/2015                    -1,734.0000  11-10 STATE DEPOSITS        3305283       AL                       
+              06/30/2015                         0.0000                              3305391       AL                       
+              06/30/2015                 2,413,474.2100  54-40 DIST QUART EARNINGS   3305392       AL                       
+    Ending                             447,525,595.7200                                            AL                       
+ 

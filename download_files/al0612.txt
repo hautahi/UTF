@@ -1,0 +1,57 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                          127,226,825.9200                                            AL                       
+              06/01/2012                    60,000.0000  CO-1110 STATE DEPOSITS      3286627       AL                       
+              06/01/2012                  -326,200.0000  DI-2110 STATE UI WITHDRAW   3286648       AL                       
+              06/01/2012                       102.4000  CO-3461 CWC IN              3286649       AL                       
+              06/01/2012                   -95,092.5500  DI-3460 CWC OUT             3286650       AL                       
+              06/04/2012                  -255,200.0000  DI-2110 STATE UI WITHDRAW   3286672       AL                       
+              06/05/2012                    62,000.0000  CO-1110 STATE DEPOSITS      3286674       AL                       
+              06/05/2012                -4,432,000.0000  DI-2110 STATE UI WITHDRAW   3286691       AL                       
+              06/06/2012                   107,000.0000  CO-1110 STATE DEPOSITS      3286693       AL                       
+              06/06/2012                  -545,200.0000  DI-2110 STATE UI WITHDRAW   3286710       AL                       
+              06/07/2012                    82,000.0000  CO-1110 STATE DEPOSITS      3286712       AL                       
+              06/07/2012                  -296,100.0000  DI-2110 STATE UI WITHDRAW   3286729       AL                       
+              06/08/2012                    43,000.0000  CO-1110 STATE DEPOSITS      3286731       AL                       
+              06/08/2012                   -29,000.0000  DI-3410 BT FROM UI          3286752       AL                       
+              06/08/2012                  -304,900.0000  DI-2110 STATE UI WITHDRAW   3286753       AL                       
+              06/11/2012                    40,000.0000  CO-1110 STATE DEPOSITS      3286755       AL                       
+              06/11/2012                  -310,800.0000  DI-2110 STATE UI WITHDRAW   3286776       AL                       
+              06/12/2012                    65,000.0000  CO-1110 STATE DEPOSITS      3286778       AL                       
+              06/12/2012                -4,627,200.0000  DI-2110 STATE UI WITHDRAW   3286795       AL                       
+              06/13/2012                    39,000.0000  CO-1110 STATE DEPOSITS      3286797       AL                       
+              06/13/2012                  -389,100.0000  DI-2110 STATE UI WITHDRAW   3286814       AL                       
+              06/14/2012                    25,000.0000  CO-1110 STATE DEPOSITS      3286816       AL                       
+              06/14/2012                  -503,300.0000  DI-2110 STATE UI WITHDRAW   3286833       AL                       
+              06/15/2012                    75,000.0000  CO-1110 STATE DEPOSITS      3286835       AL                       
+              06/15/2012                   -33,800.0000  DI-3410 BT FROM UI          3286856       AL                       
+              06/15/2012                  -305,700.0000  DI-2110 STATE UI WITHDRAW   3286857       AL                       
+              06/18/2012                   123,000.0000  CO-1110 STATE DEPOSITS      3286859       AL                       
+              06/18/2012                  -292,000.0000  DI-2110 STATE UI WITHDRAW   3286880       AL                       
+              06/19/2012                   160,000.0000  CO-1110 STATE DEPOSITS      3286882       AL                       
+              06/19/2012                -4,685,200.0000  DI-2110 STATE UI WITHDRAW   3286899       AL                       
+              06/20/2012                   130,000.0000  CO-1110 STATE DEPOSITS      3286901       AL                       
+              06/20/2012                  -542,550.0000  DI-2110 STATE UI WITHDRAW   3286918       AL                       
+              06/21/2012                  -400,800.0000  DI-2110 STATE UI WITHDRAW   3286936       AL                       
+              06/22/2012                   140,000.0000  CO-1110 STATE DEPOSITS      3286938       AL                       
+              06/22/2012                  -304,650.0000  DI-2110 STATE UI WITHDRAW   3286959       AL                       
+              06/22/2012                     8,046.5900  CO-3461 CWC IN              3286960       AL                       
+              06/25/2012                    72,000.0000  CO-1110 STATE DEPOSITS      3286962       AL                       
+              06/25/2012                   -10,541.0700  DI-2180 W/D FOR SPEC ADMI   3286981       AL                       
+              06/25/2012                  -274,800.0000  DI-2110 STATE UI WITHDRAW   3286982       AL                       
+              06/26/2012                   138,000.0000  CO-1110 STATE DEPOSITS      3286984       AL                       
+              06/26/2012                -4,754,500.0000  DI-2110 STATE UI WITHDRAW   3286997       AL                       
+              06/27/2012                   139,000.0000  CO-1110 STATE DEPOSITS      3286999       AL                       
+              06/27/2012                  -615,000.0000  DI-2110 STATE UI WITHDRAW   3287010       AL                       
+              06/28/2012                   153,000.0000  CO-1110 STATE DEPOSITS      3287012       AL                       
+              06/28/2012                  -428,000.0000  DI-2110 STATE UI WITHDRAW   3287021       AL                       
+              06/29/2012                   114,000.0000  CO-1110 STATE DEPOSITS      3287022       AL                       
+              06/29/2012                  -262,000.0000  DI-2110 STATE UI WITHDRAW   3287030       AL                       
+              06/30/2012                         0.0000                              3287038       AL                       
+              06/30/2012                   655,574.9900  CO-5440 DIST QUART EARNIN   3287040       AL                       
+    Ending                             104,633,916.2800                                            AL                       
+ 

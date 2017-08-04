@@ -1,0 +1,85 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                           13,705,935.1870                                            NY                       
+              03/03/2014                   821,064.7900  11-10 STATE DEPOSITS        3296690       NY                       
+              03/03/2014                  -196,200.0000  21-10 STATE UI WITHDRAWAL   3296711       NY                       
+              03/03/2014                  -624,864.7900  33-10 LOAN REPAYMNT FROM    3296712       NY                       
+              03/04/2014                   713,564.0300  11-10 STATE DEPOSITS        3296713       NY                       
+              03/04/2014                  -713,564.0300  21-10 STATE UI WITHDRAWAL   3296730       NY                       
+              03/04/2014                    15,693.1400  34-61 CWC IN                3296731       NY                       
+              03/04/2014                    14,425.6700  34-61 CWC IN                3296732       NY                       
+              03/04/2014                   -30,118.8100  33-10 LOAN REPAYMNT FROM    3296733       NY                       
+              03/05/2014                   989,396.7200  11-10 STATE DEPOSITS        3296734       NY                       
+              03/05/2014                -1,156,832.6000  21-10 STATE UI WITHDRAWAL   3296751       NY                       
+              03/05/2014                    37,901.8800  34-61 CWC IN                3296752       NY                       
+              03/05/2014                   167,435.8800  34-61 CWC IN                3296753       NY                       
+              03/05/2014                   -30,118.8100  33-10 LOAN REPAYMNT FROM    3296754       NY                       
+              03/06/2014                   458,832.0600  11-10 STATE DEPOSITS        3296756       NY                       
+              03/06/2014                  -458,832.0600  21-10 STATE UI WITHDRAWAL   3296773       NY                       
+              03/06/2014                   174,443.4400  34-61 CWC IN                3296774       NY                       
+              03/06/2014                  -182,226.5100  33-10 LOAN REPAYMNT FROM    3296775       NY                       
+              03/07/2014                   203,801.7300  11-10 STATE DEPOSITS        3296777       NY                       
+              03/07/2014                  -203,801.7300  21-10 STATE UI WITHDRAWAL   3296798       NY                       
+              03/07/2014                 1,407,290.0300  34-50 BT TO STATE UI ACCO   3296799       NY                       
+              03/07/2014                -1,400,578.3400  34-60 CWC OUT               3296800       NY                       
+              03/07/2014                    -6,711.6900  34-60 CWC OUT               3296801       NY                       
+              03/10/2014                   646,153.2600  11-10 STATE DEPOSITS        3296802       NY                       
+              03/10/2014                  -646,153.2600  21-10 STATE UI WITHDRAWAL   3296823       NY                       
+              03/11/2014                   842,372.3000  11-10 STATE DEPOSITS        3296824       NY                       
+              03/11/2014                  -907,379.0600  21-10 STATE UI WITHDRAWAL   3296825       NY                       
+              03/11/2014                    65,006.7600  34-61 CWC IN                3296826       NY                       
+              03/12/2014                   737,500.3700  11-10 STATE DEPOSITS        3296827       NY                       
+              03/12/2014                  -737,500.3700  21-10 STATE UI WITHDRAWAL   3296846       NY                       
+              03/13/2014                   552,800.4200  11-10 STATE DEPOSITS        3296847       NY                       
+              03/13/2014                  -552,800.4200  21-10 STATE UI WITHDRAWAL   3296864       NY                       
+              03/14/2014                   403,342.7400  11-10 STATE DEPOSITS        3296865       NY                       
+              03/14/2014                  -403,342.7400  21-10 STATE UI WITHDRAWAL   3296886       NY                       
+              03/17/2014                   460,953.6900  11-10 STATE DEPOSITS        3296887       NY                       
+              03/17/2014                  -460,953.6900  21-10 STATE UI WITHDRAWAL   3296908       NY                       
+              03/18/2014                   203,396.8100  11-10 STATE DEPOSITS        3296910       NY                       
+              03/18/2014                  -203,473.6700  21-10 STATE UI WITHDRAWAL   3296911       NY                       
+              03/18/2014                   536,816.8300  34-50 BT TO STATE UI ACCO   3296912       NY                       
+              03/18/2014                   -33,665.1800  34-60 CWC OUT               3296913       NY                       
+              03/18/2014                  -503,151.6500  34-60 CWC OUT               3296914       NY                       
+              03/18/2014                        76.8600  34-61 CWC IN                3296915       NY                       
+              03/19/2014                   609,150.4000  11-10 STATE DEPOSITS        3296916       NY                       
+              03/19/2014                  -852,723.0000  21-10 STATE UI WITHDRAWAL   3296935       NY                       
+              03/19/2014                   243,572.6000  34-61 CWC IN                3296936       NY                       
+              03/20/2014                 1,866,492.3000  11-10 STATE DEPOSITS        3296937       NY                       
+              03/20/2014                -1,866,492.3000  21-10 STATE UI WITHDRAWAL   3296954       NY                       
+              03/21/2014                   791,993.6400  11-10 STATE DEPOSITS        3296955       NY                       
+              03/21/2014                    -5,101.6600  21-39 SEA PROMO/ENROLL      3296976       NY                       
+              03/21/2014                -1,805,765.9500  21-80 W/D FOR SPEC ADMIN    3296977       NY                       
+              03/21/2014                  -791,993.6400  21-10 STATE UI WITHDRAWAL   3296978       NY                       
+              03/21/2014                     5,054.0600  34-61 CWC IN                3296979       NY                       
+              03/21/2014                     4,503.6000  34-61 CWC IN                3296980       NY                       
+              03/21/2014                   987,433.1500  34-61 CWC IN                3296981       NY                       
+              03/21/2014                  -996,990.8100  33-10 LOAN REPAYMNT FROM    3296982       NY                       
+              03/24/2014                   466,072.4200  11-10 STATE DEPOSITS        3296984       NY                       
+              03/24/2014                  -466,072.4200  21-10 STATE UI WITHDRAWAL   3297005       NY                       
+              03/25/2014                   337,281.6800  11-10 STATE DEPOSITS        3297006       NY                       
+              03/25/2014                  -337,281.6800  21-10 STATE UI WITHDRAWAL   3297023       NY                       
+              03/26/2014                   806,798.7200  11-10 STATE DEPOSITS        3297024       NY                       
+              03/26/2014                  -806,798.7200  21-10 STATE UI WITHDRAWAL   3297041       NY                       
+              03/27/2014                   489,136.0300  11-10 STATE DEPOSITS        3297042       NY                       
+              03/27/2014                  -564,674.7500  21-10 STATE UI WITHDRAWAL   3297059       NY                       
+              03/27/2014                    29,763.0000  34-50 BT TO STATE UI ACCO   3297060       NY                       
+              03/27/2014                   -29,763.0000  34-60 CWC OUT               3297061       NY                       
+              03/27/2014                    75,538.7200  34-61 CWC IN                3297062       NY                       
+              03/28/2014                   706,631.4500  11-10 STATE DEPOSITS        3297063       NY                       
+              03/28/2014                  -706,631.4500  21-10 STATE UI WITHDRAWAL   3297084       NY                       
+              03/28/2014                    37,332.7700  34-61 CWC IN                3297085       NY                       
+              03/28/2014                   -37,332.7700  33-10 LOAN REPAYMNT FROM    3297086       NY                       
+              03/31/2014                   560,346.9800  11-10 STATE DEPOSITS        3297087       NY                       
+              03/31/2014                  -656,430.6400  21-10 STATE UI WITHDRAWAL   3297108       NY                       
+              03/31/2014                     3,258.8100  34-50 BT TO STATE UI ACCO   3297109       NY                       
+              03/31/2014                    -3,258.8100  34-60 CWC OUT               3297110       NY                       
+              03/31/2014                    96,083.6600  34-61 CWC IN                3297111       NY                       
+              03/31/2014                         0.0000                              3297126       NY                       
+              03/31/2014                    93,614.2200  54-40 DIST QUART EARNINGS   3297127       NY                       
+    Ending                              11,988,681.7970                                            NY                       
+ 

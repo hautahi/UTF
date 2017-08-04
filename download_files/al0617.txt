@@ -1,0 +1,64 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                          573,639,897.7800                                            AL                       
+              06/01/2017                 8,000,000.0000  11-10 STATE DEPOSITS        3317207       AL                       
+              06/01/2017                  -135,100.0000  21-10 STATE UI WITHDRAWAL   3317224       AL                       
+              06/02/2017                   500,000.0000  11-10 STATE DEPOSITS        3317226       AL                       
+              06/02/2017                  -167,800.0000  21-10 STATE UI WITHDRAWAL   3317247       AL                       
+              06/05/2017                  -237,000.0000  21-10 STATE UI WITHDRAWAL   3317269       AL                       
+              06/06/2017                   200,000.0000  11-10 STATE DEPOSITS        3317287       AL                       
+              06/06/2017                     5,698.6900  34-61 CWC IN                3317289       AL                       
+              06/07/2017                   100,000.0000  11-10 STATE DEPOSITS        3317307       AL                       
+              06/07/2017                -2,498,400.0000  21-10 STATE UI WITHDRAWAL   3317308       AL                       
+              06/07/2017                   179,743.8300  34-61 CWC IN                3317309       AL                       
+              06/08/2017                    73,000.0000  11-10 STATE DEPOSITS        3317311       AL                       
+              06/08/2017                  -148,450.0000  21-10 STATE UI WITHDRAWAL   3317328       AL                       
+              06/09/2017                    40,000.0000  11-10 STATE DEPOSITS        3317330       AL                       
+              06/09/2017                   -93,783.1600  34-60 CWC OUT               3317351       AL                       
+              06/12/2017                    21,000.0000  11-10 STATE DEPOSITS        3317353       AL                       
+              06/12/2017                  -153,150.0000  21-10 STATE UI WITHDRAWAL   3317374       AL                       
+              06/13/2017                    69,000.0000  11-10 STATE DEPOSITS        3317376       AL                       
+              06/13/2017                -2,503,150.0000  21-10 STATE UI WITHDRAWAL   3317393       AL                       
+              06/13/2017                     5,030.4600  34-61 CWC IN                3317394       AL                       
+              06/14/2017                    45,000.0000  11-10 STATE DEPOSITS        3317396       AL                       
+              06/14/2017                  -250,650.0000  21-10 STATE UI WITHDRAWAL   3317413       AL                       
+              06/14/2017                  -107,349.3900  34-60 CWC OUT               3317414       AL                       
+              06/14/2017                      -979.9800  34-60 CWC OUT               3317415       AL                       
+              06/15/2017                     7,000.0000  11-10 STATE DEPOSITS        3317417       AL                       
+              06/15/2017                  -182,700.0000  21-10 STATE UI WITHDRAWAL   3317434       AL                       
+              06/16/2017                    10,000.0000  11-10 STATE DEPOSITS        3317436       AL                       
+              06/16/2017                   -56,300.0000  21-10 STATE UI WITHDRAWAL   3317457       AL                       
+              06/16/2017                   -80,540.0000  34-10 BT FROM UI            3317458       AL                       
+              06/16/2017                   -24,233.6300  34-60 CWC OUT               3317459       AL                       
+              06/16/2017                    -6,095.0000  11-10 STATE DEPOSITS        3317460       AL                       
+              06/19/2017                    28,000.0000  11-10 STATE DEPOSITS        3317462       AL                       
+              06/19/2017                  -142,700.0000  21-10 STATE UI WITHDRAWAL   3317483       AL                       
+              06/20/2017                 1,186,000.0000  11-10 STATE DEPOSITS        3317485       AL                       
+              06/20/2017                -2,571,350.0000  21-10 STATE UI WITHDRAWAL   3317504       AL                       
+              06/20/2017                       542.5100  34-61 CWC IN                3317505       AL                       
+              06/21/2017                    27,000.0000  11-10 STATE DEPOSITS        3317507       AL                       
+              06/21/2017                  -252,150.0000  21-10 STATE UI WITHDRAWAL   3317524       AL                       
+              06/22/2017                    78,000.0000  11-10 STATE DEPOSITS        3317526       AL                       
+              06/22/2017                  -169,750.0000  21-10 STATE UI WITHDRAWAL   3317543       AL                       
+              06/23/2017                    91,000.0000  11-10 STATE DEPOSITS        3317545       AL                       
+              06/23/2017                  -129,750.0000  21-10 STATE UI WITHDRAWAL   3317566       AL                       
+              06/26/2017                   158,000.0000  11-10 STATE DEPOSITS        3317568       AL                       
+              06/26/2017                   -96,800.0000  21-10 STATE UI WITHDRAWAL   3317589       AL                       
+              06/27/2017                    56,000.0000  11-10 STATE DEPOSITS        3317591       AL                       
+              06/27/2017                -2,668,250.0000  21-10 STATE UI WITHDRAWAL   3317608       AL                       
+              06/28/2017                    82,000.0000  11-10 STATE DEPOSITS        3317610       AL                       
+              06/28/2017                  -274,000.0000  21-10 STATE UI WITHDRAWAL   3317627       AL                       
+              06/29/2017                    64,000.0000  11-10 STATE DEPOSITS        3317629       AL                       
+              06/29/2017                  -150,650.0000  21-10 STATE UI WITHDRAWAL   3317646       AL                       
+              06/30/2017                    60,000.0000  11-10 STATE DEPOSITS        3317647       AL                       
+              06/30/2017                  -160,500.0000  21-10 STATE UI WITHDRAWAL   3317677       AL                       
+              06/30/2017                   -45,030.0000  34-10 BT FROM UI            3317678       AL                       
+              06/30/2017                    -2,900.0000  11-10 STATE DEPOSITS        3317679       AL                       
+              06/30/2017                         0.0000                              3317707       AL                       
+              06/30/2017                 3,069,079.3400  54-40 DIST QUART EARNINGS   3317708       AL                       
+    Ending                             574,485,481.4500                                            AL                       
+ 

@@ -1,0 +1,68 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                           27,418,696.2570                                            NY                       
+              06/01/2012                 1,075,283.8500  CO-1110 STATE DEPOSITS      3286972       NY                       
+              06/01/2012                   193,057.5800  CO-3450 BT TO STATE UI AC   3286993       NY                       
+              06/01/2012                -1,075,283.8500  DI-2110 STATE UI WITHDRAW   3286994       NY                       
+              06/01/2012                    60,812.5700  CO-3461 CWC IN              3286995       NY                       
+              06/01/2012                   -45,167.9500  DI-3460 CWC OUT             3286996       NY                       
+              06/01/2012                  -147,889.6300  DI-3460 CWC OUT             3286997       NY                       
+              06/01/2012                   -60,812.5700  DI-3310 LOAN REPAYMNT FRO   3286998       NY                       
+              06/04/2012                   562,558.5000  CO-1110 STATE DEPOSITS      3286999       NY                       
+              06/04/2012                  -562,558.5000  DI-2110 STATE UI WITHDRAW   3287020       NY                       
+              06/05/2012                 1,542,648.3600  CO-1110 STATE DEPOSITS      3287021       NY                       
+              06/05/2012                -1,542,648.3600  DI-2110 STATE UI WITHDRAW   3287038       NY                       
+              06/05/2012                   209,365.6800  CO-3461 CWC IN              3287039       NY                       
+              06/05/2012                    30,697.0400  CO-3461 CWC IN              3287040       NY                       
+              06/05/2012                  -240,062.7200  DI-3310 LOAN REPAYMNT FRO   3287041       NY                       
+              06/06/2012                 1,550,231.6700  CO-1110 STATE DEPOSITS      3287042       NY                       
+              06/06/2012                -1,550,231.6700  DI-2110 STATE UI WITHDRAW   3287059       NY                       
+              06/07/2012                   460,456.1200  CO-1110 STATE DEPOSITS      3287060       NY                       
+              06/07/2012                  -495,772.0100  DI-2110 STATE UI WITHDRAW   3287077       NY                       
+              06/07/2012                    35,315.8900  CO-3461 CWC IN              3287078       NY                       
+              06/08/2012                   361,561.4600  CO-1110 STATE DEPOSITS      3287079       NY                       
+              06/08/2012                  -361,561.4600  DI-2110 STATE UI WITHDRAW   3287100       NY                       
+              06/08/2012                    46,024.5400  CO-3461 CWC IN              3287101       NY                       
+              06/08/2012                   -46,024.5400  DI-3310 LOAN REPAYMNT FRO   3287102       NY                       
+              06/11/2012                   888,618.1600  CO-1110 STATE DEPOSITS      3287103       NY                       
+              06/11/2012                   252,941.5800  CO-3450 BT TO STATE UI AC   3287124       NY                       
+              06/11/2012                  -888,618.1600  DI-2110 STATE UI WITHDRAW   3287125       NY                       
+              06/11/2012                  -132,854.2900  DI-3460 CWC OUT             3287126       NY                       
+              06/11/2012                  -120,087.2900  DI-3460 CWC OUT             3287127       NY                       
+              06/12/2012                 1,432,149.3200  CO-1110 STATE DEPOSITS      3287128       NY                       
+              06/12/2012                 2,210,651.7800  CO-3450 BT TO STATE UI AC   3287145       NY                       
+              06/12/2012                -1,450,344.3300  DI-2110 STATE UI WITHDRAW   3287146       NY                       
+              06/12/2012                    18,195.0100  CO-3461 CWC IN              3287147       NY                       
+              06/12/2012                -2,210,651.7800  DI-3460 CWC OUT             3287148       NY                       
+              06/13/2012                 1,526,908.2700  CO-1110 STATE DEPOSITS      3287149       NY                       
+              06/13/2012                -1,526,908.2700  DI-2110 STATE UI WITHDRAW   3287166       NY                       
+              06/14/2012                   420,307.6700  CO-1110 STATE DEPOSITS      3287167       NY                       
+              06/14/2012                  -420,307.6700  DI-2110 STATE UI WITHDRAW   3287184       NY                       
+              06/15/2012                    84,727.8600  CO-1110 STATE DEPOSITS      3287185       NY                       
+              06/15/2012                   -84,727.8600  DI-2110 STATE UI WITHDRAW   3287206       NY                       
+              06/18/2012                   361,694.0200  CO-1110 STATE DEPOSITS      3287207       NY                       
+              06/18/2012                  -361,694.0200  DI-2110 STATE UI WITHDRAW   3287228       NY                       
+              06/19/2012                 3,487,381.2000  CO-1110 STATE DEPOSITS      3287229       NY                       
+              06/19/2012                -3,487,381.2000  DI-2110 STATE UI WITHDRAW   3287246       NY                       
+              06/20/2012                 1,187,447.5300  CO-1110 STATE DEPOSITS      3287247       NY                       
+              06/20/2012                -1,187,447.5300  DI-2110 STATE UI WITHDRAW   3287264       NY                       
+              06/21/2012                   397,605.1300  CO-1110 STATE DEPOSITS      3287265       NY                       
+              06/21/2012                  -397,605.1300  DI-2110 STATE UI WITHDRAW   3287282       NY                       
+              06/22/2012                   375,685.9800  CO-1110 STATE DEPOSITS      3287283       NY                       
+              06/22/2012                -1,612,069.5000  DI-2110 STATE UI WITHDRAW   3287304       NY                       
+              06/22/2012                 1,162,548.6100  CO-3461 CWC IN              3287305       NY                       
+              06/22/2012                    73,834.9100  CO-3461 CWC IN              3287306       NY                       
+              06/25/2012                   772,494.1100  CO-1110 STATE DEPOSITS      3287307       NY                       
+              06/25/2012                  -772,494.1100  DI-2110 STATE UI WITHDRAW   3287326       NY                       
+              06/26/2012                   533,766.4800  CO-1110 STATE DEPOSITS      3287327       NY                       
+              06/26/2012                  -533,766.4800  DI-2110 STATE UI WITHDRAW   3287340       NY                       
+              06/26/2012                    94,392.1800  CO-3461 CWC IN              3287341       NY                       
+              06/26/2012                   -94,392.1800  DI-3310 LOAN REPAYMNT FRO   3287342       NY                       
+              06/30/2012                         0.0000                              3287373       NY                       
+              06/30/2012                   195,024.2400  CO-5440 DIST QUART EARNIN   3287375       NY                       
+    Ending                              27,613,720.4970                                            NY                       
+ 

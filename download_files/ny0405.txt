@@ -1,0 +1,127 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                                    1.1400                                            NY                       
+              04/01/2005                        -1.1400  CO-5440 DIST QUART EARNIN   2007204       NY                       
+              04/01/2005                   297,058.7800  CO-3450 BT TO STATE UI AC   2007467       NY                       
+              04/01/2005                  -616,638.4500  DI-2110 STATE UI WITHDRAW   2007596       NY                       
+              04/01/2005                   616,638.4500  CO-1110 STATE DEPOSITS      2012341       NY                       
+              04/01/2005                  -297,058.7800  DI-3480 FEDTAX W/D FROM U   2013307       NY                       
+              04/04/2005                   145,061.0800  CO-3450 BT TO STATE UI AC   2007652       NY                       
+              04/04/2005                  -734,719.1800  DI-2110 STATE UI WITHDRAW   2007764       NY                       
+              04/04/2005                   734,719.1800  CO-1110 STATE DEPOSITS      2012388       NY                       
+              04/04/2005                  -145,061.0800  DI-3480 FEDTAX W/D FROM U   2017989       NY                       
+              04/05/2005                 1,395,074.2900  CO-3450 BT TO STATE UI AC   2007834       NY                       
+              04/05/2005                  -925,989.2300  DI-2110 STATE UI WITHDRAW   2007974       NY                       
+              04/05/2005                   925,989.2300  CO-1110 STATE DEPOSITS      2012427       NY                       
+              04/05/2005                -1,395,074.2900  DI-3480 FEDTAX W/D FROM U   2018135       NY                       
+              04/06/2005                   780,491.0200  CO-3450 BT TO STATE UI AC   2008042       NY                       
+              04/06/2005                -1,011,088.4700  DI-2110 STATE UI WITHDRAW   2008170       NY                       
+              04/06/2005                 1,011,088.4700  CO-1110 STATE DEPOSITS      2012485       NY                       
+              04/06/2005                  -780,491.0200  DI-3480 FEDTAX W/D FROM U   2032784       NY                       
+              04/07/2005                   237,237.3700  CO-3450 BT TO STATE UI AC   2008236       NY                       
+              04/07/2005                -1,206,705.6700  DI-2110 STATE UI WITHDRAW   2008389       NY                       
+              04/07/2005                 1,206,705.6700  CO-1110 STATE DEPOSITS      2012534       NY                       
+              04/07/2005                  -237,237.3700  DI-3480 FEDTAX W/D FROM U   2043421       NY                       
+              04/08/2005                   290,390.7700  CO-3450 BT TO STATE UI AC   2008476       NY                       
+              04/08/2005                -1,001,960.8300  DI-2110 STATE UI WITHDRAW   2008602       NY                       
+              04/08/2005                 1,001,960.8300  CO-1110 STATE DEPOSITS      2012584       NY                       
+              04/08/2005                  -290,390.7700  DI-3480 FEDTAX W/D FROM U   2053654       NY                       
+              04/11/2005                   138,542.8200  CO-3450 BT TO STATE UI AC   2008665       NY                       
+              04/11/2005                -1,266,075.7700  DI-2110 STATE UI WITHDRAW   2008774       NY                       
+              04/11/2005                 1,266,075.7700  CO-1110 STATE DEPOSITS      2012645       NY                       
+              04/11/2005                  -138,542.8200  DI-3480 FEDTAX W/D FROM U   2053676       NY                       
+              04/12/2005                 1,259,287.8100  CO-3450 BT TO STATE UI AC   2008876       NY                       
+              04/12/2005                -5,841,397.2700  DI-2110 STATE UI WITHDRAW   2009005       NY                       
+              04/12/2005                 5,841,397.2700  CO-1110 STATE DEPOSITS      2012705       NY                       
+              04/12/2005                -1,259,287.8100  DI-3480 FEDTAX W/D FROM U   2053836       NY                       
+              04/13/2005                   789,583.7700  CO-3450 BT TO STATE UI AC   2009123       NY                       
+              04/13/2005                -2,470,698.1400  DI-2110 STATE UI WITHDRAW   2009243       NY                       
+              04/13/2005                 2,470,698.1400  CO-1110 STATE DEPOSITS      2012768       NY                       
+              04/13/2005                  -789,583.7700  DI-3480 FEDTAX W/D FROM U   2063603       NY                       
+              04/14/2005                   214,797.6500  CO-3450 BT TO STATE UI AC   2009452       NY                       
+              04/14/2005                -1,766,501.3800  DI-2110 STATE UI WITHDRAW   2009580       NY                       
+              04/14/2005                 1,766,501.3800  CO-1110 STATE DEPOSITS      2012813       NY                       
+              04/14/2005                  -214,797.6500  DI-3480 FEDTAX W/D FROM U   2063572       NY                       
+              04/15/2005                   283,288.3000  CO-3450 BT TO STATE UI AC   2009649       NY                       
+              04/15/2005                -3,830,853.9800  DI-2110 STATE UI WITHDRAW   2009855       NY                       
+              04/15/2005                 3,830,853.9800  CO-1110 STATE DEPOSITS      2012881       NY                       
+              04/15/2005                  -283,288.3000  DI-3480 FEDTAX W/D FROM U   2063625       NY                       
+              04/18/2005                   123,781.8300  CO-3450 BT TO STATE UI AC   2009915       NY                       
+              04/18/2005                -3,768,633.8500  DI-2110 STATE UI WITHDRAW   2010017       NY                       
+              04/18/2005                 3,768,633.8500  CO-1110 STATE DEPOSITS      2012934       NY                       
+              04/18/2005                  -123,781.8300  DI-3480 FEDTAX W/D FROM U   2086915       NY                       
+              04/19/2005                   123,781.8300  CO-3450 BT TO STATE UI AC   2010168       NY                       
+              04/19/2005               -10,831,638.1100  DI-2110 STATE UI WITHDRAW   2010478       NY                       
+              04/19/2005                10,831,638.1100  CO-1110 STATE DEPOSITS      2012982       NY                       
+              04/19/2005                -1,193,870.1000  DI-3480 FEDTAX W/D FROM U   2091677       NY                       
+              04/19/2005                 1,070,088.2700  CO-3450 BT TO STATE UI AC   2091678       NY                       
+              04/20/2005                   730,827.9500  CO-3450 BT TO STATE UI AC   2010542       NY                       
+              04/20/2005                -8,152,539.7700  DI-2110 STATE UI WITHDRAW   2010666       NY                       
+              04/20/2005                 8,152,539.7700  CO-1110 STATE DEPOSITS      2013048       NY                       
+              04/20/2005                  -730,827.9500  DI-3480 FEDTAX W/D FROM U   2091826       NY                       
+              04/21/2005                 1,651,604.0500  CO-3450 BT TO STATE UI AC   2010978       NY                       
+              04/21/2005                    -7,389.3200  DI-3460 CWC OUT             2011010       NY                       
+              04/21/2005                   -15,506.2900  DI-3460 CWC OUT             2011012       NY                       
+              04/21/2005                    -2,017.6500  DI-3460 CWC OUT             2011014       NY                       
+              04/21/2005                   -29,465.2000  DI-3460 CWC OUT             2011016       NY                       
+              04/21/2005                  -944,729.5000  DI-3460 CWC OUT             2011018       NY                       
+              04/21/2005                   -47,714.9700  DI-3460 CWC OUT             2011020       NY                       
+              04/21/2005                    -5,893.0000  DI-3460 CWC OUT             2011022       NY                       
+              04/21/2005                  -203,142.1600  DI-3460 CWC OUT             2011024       NY                       
+              04/21/2005                    -4,262.7900  DI-3460 CWC OUT             2011026       NY                       
+              04/21/2005                      -471.7100  DI-3460 CWC OUT             2011028       NY                       
+              04/21/2005                   -74,333.7200  DI-3460 CWC OUT             2011030       NY                       
+              04/21/2005                   -68,908.4600  DI-3460 CWC OUT             2011032       NY                       
+              04/21/2005                   -21,501.1900  DI-3460 CWC OUT             2011034       NY                       
+              04/21/2005                    -4,555.9500  DI-3460 CWC OUT             2011036       NY                       
+              04/21/2005                -1,655,994.9600  DI-2110 STATE UI WITHDRAW   2011295       NY                       
+              04/21/2005                 1,655,994.9600  CO-1110 STATE DEPOSITS      2013096       NY                       
+              04/21/2005                  -221,712.1400  DI-3480 FEDTAX W/D FROM U   2091853       NY                       
+              04/22/2005                -7,364,000.0000  DI-2110 STATE UI WITHDRAW   2011716       NY                       
+              04/22/2005                12,832,497.6600  CO-1110 STATE DEPOSITS      2013164       NY                       
+              04/22/2005                  -281,001.6300  DI-3480 FEDTAX W/D FROM U   2091875       NY                       
+              04/22/2005                -5,187,496.0300  DI-3310 LOAN REPAYMNT FRO   2092218       NY                       
+              04/25/2005                   128,856.9700  CO-3450 BT TO STATE UI AC   2011775       NY                       
+              04/25/2005                -9,601,488.9000  DI-2110 STATE UI WITHDRAW   2011878       NY                       
+              04/25/2005                 9,601,488.9000  CO-1110 STATE DEPOSITS      2013210       NY                       
+              04/25/2005                  -128,856.9700  DI-3480 FEDTAX W/D FROM U   2091892       NY                       
+              04/26/2005               -12,528,000.0000  DI-2110 STATE UI WITHDRAW   2012145       NY                       
+              04/26/2005                28,506,252.7000  CO-1110 STATE DEPOSITS      2013271       NY                       
+              04/26/2005                -1,209,096.4200  DI-3480 FEDTAX W/D FROM U   2092028       NY                       
+              04/26/2005               -14,769,156.2800  DI-3310 LOAN REPAYMNT FRO   2122578       NY                       
+              04/27/2005                28,245,527.0600  CO-1110 STATE DEPOSITS      2122746       NY                       
+              04/27/2005                -8,932,000.0000  DI-2110 STATE UI WITHDRAW   2122747       NY                       
+              04/27/2005                  -686,961.6900  DI-3480 FEDTAX W/D FROM U   2122748       NY                       
+              04/27/2005               -18,626,565.3700  DI-3310 LOAN REPAYMNT FRO   2125322       NY                       
+              04/28/2005                -6,289,000.0000  DI-2110 STATE UI WITHDRAW   2120538       NY                       
+              04/28/2005                   -10,264.4400  DI-3460 CWC OUT             2120599       NY                       
+              04/28/2005                   -26,655.6500  DI-3460 CWC OUT             2120601       NY                       
+              04/28/2005                  -474,536.9800  DI-3460 CWC OUT             2120603       NY                       
+              04/28/2005                   -22,704.2500  DI-3460 CWC OUT             2120605       NY                       
+              04/28/2005                   -28,487.6600  DI-3460 CWC OUT             2120607       NY                       
+              04/28/2005                    -5,491.7300  DI-3460 CWC OUT             2120609       NY                       
+              04/28/2005                   -56,697.2600  DI-3460 CWC OUT             2120611       NY                       
+              04/28/2005                    -4,373.4000  DI-3460 CWC OUT             2120613       NY                       
+              04/28/2005                   -21,060.8300  DI-3460 CWC OUT             2120615       NY                       
+              04/28/2005                    -5,601.8800  DI-3460 CWC OUT             2120617       NY                       
+              04/28/2005                   -19,177.5900  DI-3460 CWC OUT             2120619       NY                       
+              04/28/2005                   -69,647.3200  DI-3460 CWC OUT             2120621       NY                       
+              04/28/2005                   -38,495.2800  DI-3460 CWC OUT             2120623       NY                       
+              04/28/2005                   -21,210.1700  DI-3460 CWC OUT             2120625       NY                       
+              04/28/2005                  -115,395.7700  DI-3460 CWC OUT             2120627       NY                       
+              04/28/2005                   -10,932.0500  DI-3460 CWC OUT             2120629       NY                       
+              04/28/2005                   -28,302.1700  DI-3460 CWC OUT             2120631       NY                       
+              04/28/2005                19,319,015.1500  CO-1110 STATE DEPOSITS      2121920       NY                       
+              04/28/2005                  -209,234.4900  DI-3480 FEDTAX W/D FROM U   2125476       NY                       
+              04/28/2005               -11,861,746.2300  DI-3310 LOAN REPAYMNT FRO   2125525       NY                       
+              04/29/2005                     2,326.1300  CO-3461 CWC IN              2120959       NY                       
+              04/29/2005                -7,129,000.0000  DI-2110 STATE UI WITHDRAW   2121096       NY                       
+              04/29/2005                29,193,918.2700  CO-1110 STATE DEPOSITS      2121961       NY                       
+              04/29/2005                  -271,782.4300  DI-3480 FEDTAX W/D FROM U   2125463       NY                       
+              04/29/2005               -21,795,461.9700  DI-3310 LOAN REPAYMNT FRO   2125545       NY                       
+    Ending                                       0.0000                                            NY                       
+ 

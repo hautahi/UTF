@@ -1,0 +1,57 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                          357,137,070.5500                                            AL                       
+              06/02/2014                  -151,450.0000  21-10 STATE UI WITHDRAWAL   3298756       AL                       
+              06/03/2014                   106,000.0000  11-10 STATE DEPOSITS        3298758       AL                       
+              06/03/2014                -3,656,050.0000  21-10 STATE UI WITHDRAWAL   3298804       AL                       
+              06/04/2014                    49,000.0000  11-10 STATE DEPOSITS        3298806       AL                       
+              06/04/2014                  -225,000.0000  21-10 STATE UI WITHDRAWAL   3298823       AL                       
+              06/05/2014                   119,000.0000  11-10 STATE DEPOSITS        3298825       AL                       
+              06/05/2014                  -197,000.0000  21-10 STATE UI WITHDRAWAL   3298858       AL                       
+              06/06/2014                  -163,000.0000  21-10 STATE UI WITHDRAWAL   3298880       AL                       
+              06/06/2014                  -107,370.0000  34-10 BT FROM UI            3298881       AL                       
+              06/09/2014                  -167,400.0000  21-10 STATE UI WITHDRAWAL   3298903       AL                       
+              06/10/2014                -3,714,200.0000  21-10 STATE UI WITHDRAWAL   3298921       AL                       
+              06/10/2014                     2,264.7600  34-61 CWC IN                3298922       AL                       
+              06/11/2014                  -353,500.0000  21-10 STATE UI WITHDRAWAL   3298940       AL                       
+              06/12/2014                    34,000.0000  11-10 STATE DEPOSITS        3298942       AL                       
+              06/12/2014                  -246,000.0000  21-10 STATE UI WITHDRAWAL   3298959       AL                       
+              06/13/2014                    91,000.0000  11-10 STATE DEPOSITS        3298961       AL                       
+              06/13/2014                  -220,000.0000  21-10 STATE UI WITHDRAWAL   3298982       AL                       
+              06/16/2014                    64,000.0000  11-10 STATE DEPOSITS        3298984       AL                       
+              06/16/2014                  -199,000.0000  21-10 STATE UI WITHDRAWAL   3299005       AL                       
+              06/16/2014                  -152,094.6100  34-60 CWC OUT               3299006       AL                       
+              06/16/2014                   -33,157.1500  34-60 CWC OUT               3299007       AL                       
+              06/17/2014                   110,000.0000  11-10 STATE DEPOSITS        3299009       AL                       
+              06/17/2014                -3,888,000.0000  21-10 STATE UI WITHDRAWAL   3299026       AL                       
+              06/17/2014                     4,547.1100  34-61 CWC IN                3299027       AL                       
+              06/18/2014                    87,000.0000  11-10 STATE DEPOSITS        3299029       AL                       
+              06/18/2014                  -333,000.0000  21-10 STATE UI WITHDRAWAL   3299046       AL                       
+              06/19/2014                    64,000.0000  11-10 STATE DEPOSITS        3299048       AL                       
+              06/19/2014                  -237,000.0000  21-10 STATE UI WITHDRAWAL   3299065       AL                       
+              06/20/2014                   107,000.0000  11-10 STATE DEPOSITS        3299067       AL                       
+              06/20/2014                  -176,000.0000  21-10 STATE UI WITHDRAWAL   3299088       AL                       
+              06/23/2014                  -165,600.0000  21-10 STATE UI WITHDRAWAL   3299131       AL                       
+              06/23/2014                  -180,338.0000  34-10 BT FROM UI            3299132       AL                       
+              06/24/2014                -3,934,800.0000  21-10 STATE UI WITHDRAWAL   3299134       AL                       
+              06/24/2014                    98,000.0000  11-10 STATE DEPOSITS        3299135       AL                       
+              06/25/2014                   148,000.0000  11-10 STATE DEPOSITS        3299153       AL                       
+              06/25/2014                  -344,050.0000  21-10 STATE UI WITHDRAWAL   3299154       AL                       
+              06/26/2014                   145,000.0000  11-10 STATE DEPOSITS        3299156       AL                       
+              06/26/2014                   -83,700.0000  21-10 STATE UI WITHDRAWAL   3299175       AL                       
+              06/27/2014                   145,000.0000  11-10 STATE DEPOSITS        3299177       AL                       
+              06/27/2014                  -164,777.9600  21-80 W/D FOR SPEC ADMIN    3299198       AL                       
+              06/27/2014                  -175,450.0000  21-10 STATE UI WITHDRAWAL   3299199       AL                       
+              06/27/2014                   -26,924.8300  34-60 CWC OUT               3299200       AL                       
+              06/30/2014                    81,000.0000  11-10 STATE DEPOSITS        3299201       AL                       
+              06/30/2014                  -177,100.0000  21-10 STATE UI WITHDRAWAL   3299223       AL                       
+              06/30/2014                   -63,193.0000  34-10 BT FROM UI            3299224       AL                       
+              06/30/2014                   -10,929.0000  11-10 STATE DEPOSITS        3299225       AL                       
+              06/30/2014                 1,852,892.7300  54-40 DIST QUART EARNINGS   3299242       AL                       
+              06/30/2014                         0.0000                              3299323       AL                       
+    Ending                             340,898,690.6000                                            AL                       
+ 

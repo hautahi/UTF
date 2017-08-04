@@ -1,0 +1,45 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                            6,888,913.9700                                            AL                       
+              12/01/2011                    77,000.0000  CO-1110 STATE DEPOSITS      3283669       AL                       
+              12/01/2011                    11,546.7200  CO-3450 BT TO STATE UI AC   3283687       AL                       
+              12/01/2011                   814,404.4900  CO-3450 BT TO STATE UI AC   3283688       AL                       
+              12/01/2011                  -116,546.7200  DI-2110 STATE UI WITHDRAW   3283689       AL                       
+              12/01/2011                  -540,865.7300  DI-3460 CWC OUT             3283690       AL                       
+              12/01/2011                   -83,804.7200  DI-3460 CWC OUT             3283691       AL                       
+              12/01/2011                  -189,734.0400  DI-3460 CWC OUT             3283692       AL                       
+              12/02/2011                   112,000.0000  CO-1110 STATE DEPOSITS      3283694       AL                       
+              12/02/2011                   -77,000.0000  DI-2110 STATE UI WITHDRAW   3283715       AL                       
+              12/05/2011                    94,000.0000  CO-1110 STATE DEPOSITS      3283717       AL                       
+              12/05/2011                  -112,000.0000  DI-2110 STATE UI WITHDRAW   3283738       AL                       
+              12/06/2011                    41,000.0000  CO-1110 STATE DEPOSITS      3283740       AL                       
+              12/06/2011                   -94,000.0000  DI-2110 STATE UI WITHDRAW   3283757       AL                       
+              12/07/2011                   -41,000.0000  DI-2110 STATE UI WITHDRAW   3283775       AL                       
+              12/08/2011                    -8,642.2000  DI-2110 STATE UI WITHDRAW   3283793       AL                       
+              12/08/2011                     8,216.2000  CO-3461 CWC IN              3283794       AL                       
+              12/08/2011                       426.0000  CO-3461 CWC IN              3283795       AL                       
+              12/14/2011                   190,856.0800  CO-3461 CWC IN              3283852       AL                       
+              12/15/2011                  -190,856.0800  DI-2110 STATE UI WITHDRAW   3283872       AL                       
+              12/16/2011                    42,000.0000  CO-1110 STATE DEPOSITS      3283874       AL                       
+              12/19/2011                    43,000.0000  CO-1110 STATE DEPOSITS      3283896       AL                       
+              12/19/2011                   -37,018.6400  DI-2110 STATE UI WITHDRAW   3283917       AL                       
+              12/19/2011                    -4,981.3600  DI-3460 CWC OUT             3283918       AL                       
+              12/20/2011                   -43,000.0000  DI-2110 STATE UI WITHDRAW   3283920       AL                       
+              12/22/2011                    82,000.0000  CO-1110 STATE DEPOSITS      3283940       AL                       
+              12/27/2011                    28,000.0000  CO-1110 STATE DEPOSITS      3283980       AL                       
+              12/27/2011                    82,000.0000  CO-3458 BOOK TRSFR TO RET   3284003       AL                       
+              12/27/2011                   -82,000.0000  DI-3410 BT FROM UI          3284004       AL                       
+              12/27/2011                   122,388.6700  CO-3450 BT TO STATE UI AC   3284005       AL                       
+              12/27/2011                      -140.1600  DI-2180 W/D FOR SPEC ADMI   3284006       AL                       
+              12/27/2011                   -82,000.0000  DI-1111 RET OF ST UNEMPLO   3284007       AL                       
+              12/27/2011                  -122,388.6700  DI-3460 CWC OUT             3284008       AL                       
+              12/28/2011                   -28,000.0000  DI-2110 STATE UI WITHDRAW   3284026       AL                       
+              12/30/2011                    89,000.0000  CO-1110 STATE DEPOSITS      3284044       AL                       
+              12/31/2011                         0.0000                              3284088       AL                       
+              12/31/2011                    78,658.8300  CO-5440 DIST QUART EARNIN   3284089       AL                       
+    Ending                               6,951,432.6400                                            AL                       
+ 

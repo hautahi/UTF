@@ -1,0 +1,83 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                          663,471,780.5300                                            NY                       
+              09/02/2008                   407,382.3800  CO-1110 STATE DEPOSITS      3263999       NY                       
+              09/02/2008                  -167,776.7600  DI-3480 FEDTAX W/D FROM U   3264000       NY                       
+              09/02/2008                -2,429,000.0000  DI-2110 STATE UI WITHDRAW   3264001       NY                       
+              09/03/2008                   576,307.9400  CO-1110 STATE DEPOSITS      3264003       NY                       
+              09/03/2008                -2,903,480.7600  DI-3480 FEDTAX W/D FROM U   3264004       NY                       
+              09/03/2008               -13,225,000.0000  DI-2110 STATE UI WITHDRAW   3264005       NY                       
+              09/04/2008                   301,596.9200  CO-1110 STATE DEPOSITS      3264017       NY                       
+              09/04/2008                  -529,449.8500  DI-3480 FEDTAX W/D FROM U   3264020       NY                       
+              09/04/2008               -24,410,000.0000  DI-2110 STATE UI WITHDRAW   3264021       NY                       
+              09/05/2008                   287,926.7800  CO-1110 STATE DEPOSITS      3264023       NY                       
+              09/05/2008                  -293,900.1200  DI-3480 FEDTAX W/D FROM U   3264026       NY                       
+              09/05/2008                -6,171,000.0000  DI-2110 STATE UI WITHDRAW   3264027       NY                       
+              09/05/2008                  -489,964.3000  DI-3460 CWC OUT             3264028       NY                       
+              09/08/2008                   414,130.5400  CO-1110 STATE DEPOSITS      3264029       NY                       
+              09/08/2008                  -182,356.1300  DI-3480 FEDTAX W/D FROM U   3264033       NY                       
+              09/08/2008                -3,298,000.0000  DI-2110 STATE UI WITHDRAW   3264034       NY                       
+              09/08/2008                    24,913.5400  CO-3461 CWC IN              3264035       NY                       
+              09/08/2008                    19,960.3100  CO-3461 CWC IN              3264036       NY                       
+              09/08/2008                    21,234.2500  CO-3461 CWC IN              3264037       NY                       
+              09/08/2008                    36,854.7100  CO-3461 CWC IN              3264038       NY                       
+              09/09/2008                   615,780.9000  CO-1110 STATE DEPOSITS      3264040       NY                       
+              09/09/2008                -2,006,359.2600  DI-3480 FEDTAX W/D FROM U   3264047       NY                       
+              09/09/2008                -8,267,000.0000  DI-2110 STATE UI WITHDRAW   3264048       NY                       
+              09/10/2008                   249,393.2700  CO-1110 STATE DEPOSITS      3264050       NY                       
+              09/10/2008                -1,041,368.3400  DI-3480 FEDTAX W/D FROM U   3264053       NY                       
+              09/10/2008               -18,333,000.0000  DI-2110 STATE UI WITHDRAW   3264054       NY                       
+              09/10/2008                   -34,262.3000  DI-3460 CWC OUT             3264055       NY                       
+              09/11/2008                   191,881.7600  CO-1110 STATE DEPOSITS      3264057       NY                       
+              09/11/2008                  -309,795.1300  DI-3480 FEDTAX W/D FROM U   3264058       NY                       
+              09/11/2008               -10,803,000.0000  DI-2110 STATE UI WITHDRAW   3264059       NY                       
+              09/12/2008                   155,680.0600  CO-1110 STATE DEPOSITS      3264063       NY                       
+              09/12/2008                  -236,858.9000  DI-3480 FEDTAX W/D FROM U   3264066       NY                       
+              09/12/2008                -3,791,000.0000  DI-2110 STATE UI WITHDRAW   3264067       NY                       
+              09/15/2008                   346,426.5100  CO-1110 STATE DEPOSITS      3264069       NY                       
+              09/15/2008                  -165,797.8700  DI-3480 FEDTAX W/D FROM U   3264070       NY                       
+              09/15/2008                -2,520,000.0000  DI-2110 STATE UI WITHDRAW   3264071       NY                       
+              09/16/2008                   428,755.9500  CO-1110 STATE DEPOSITS      3264073       NY                       
+              09/16/2008                -1,993,520.7300  DI-3480 FEDTAX W/D FROM U   3264074       NY                       
+              09/16/2008                -7,348,000.0000  DI-2110 STATE UI WITHDRAW   3264075       NY                       
+              09/17/2008                    56,937.1600  CO-1110 STATE DEPOSITS      3264085       NY                       
+              09/17/2008                -1,035,933.5300  DI-3480 FEDTAX W/D FROM U   3264086       NY                       
+              09/17/2008               -18,209,000.0000  DI-2110 STATE UI WITHDRAW   3264087       NY                       
+              09/18/2008                   119,795.7900  CO-1110 STATE DEPOSITS      3264091       NY                       
+              09/18/2008                  -304,498.0300  DI-3480 FEDTAX W/D FROM U   3264092       NY                       
+              09/18/2008               -10,822,000.0000  DI-2110 STATE UI WITHDRAW   3264093       NY                       
+              09/19/2008                   317,739.4900  CO-1110 STATE DEPOSITS      3264097       NY                       
+              09/19/2008                  -230,935.0600  DI-3480 FEDTAX W/D FROM U   3264100       NY                       
+              09/19/2008                -3,704,000.0000  DI-2110 STATE UI WITHDRAW   3264101       NY                       
+              09/22/2008                   229,089.7700  CO-1110 STATE DEPOSITS      3264102       NY                       
+              09/22/2008                  -155,759.7000  DI-3480 FEDTAX W/D FROM U   3264106       NY                       
+              09/22/2008                -2,456,000.0000  DI-2110 STATE UI WITHDRAW   3264107       NY                       
+              09/23/2008                   431,549.8800  CO-1110 STATE DEPOSITS      3264109       NY                       
+              09/23/2008                -1,994,490.7300  DI-3480 FEDTAX W/D FROM U   3264110       NY                       
+              09/23/2008                -6,871,000.0000  DI-2110 STATE UI WITHDRAW   3264111       NY                       
+              09/24/2008                   101,324.9200  CO-1110 STATE DEPOSITS      3264119       NY                       
+              09/24/2008                -1,047,266.6300  DI-3480 FEDTAX W/D FROM U   3264120       NY                       
+              09/24/2008               -18,232,000.0000  DI-2110 STATE UI WITHDRAW   3264121       NY                       
+              09/25/2008                  -295,477.7000  DI-3410 BT FROM UI          3264124       NY                       
+              09/25/2008                   521,110.9600  CO-1110 STATE DEPOSITS      3264126       NY                       
+              09/25/2008                  -297,898.9800  DI-3480 FEDTAX W/D FROM U   3264127       NY                       
+              09/25/2008               -11,014,000.0000  DI-2110 STATE UI WITHDRAW   3264128       NY                       
+              09/25/2008                    96,866.5800  CO-3461 CWC IN              3264129       NY                       
+              09/26/2008                   192,111.0400  CO-1110 STATE DEPOSITS      3264132       NY                       
+              09/26/2008                  -221,347.9800  DI-3480 FEDTAX W/D FROM U   3264138       NY                       
+              09/26/2008                -3,734,000.0000  DI-2110 STATE UI WITHDRAW   3264139       NY                       
+              09/29/2008                 1,379,459.0000  CO-6112 CMIA RECEIPTS TO    3264140       NY                       
+              09/29/2008                   139,802.8200  CO-1110 STATE DEPOSITS      3264141       NY                       
+              09/29/2008                  -147,407.8000  DI-3480 FEDTAX W/D FROM U   3264151       NY                       
+              09/29/2008                -2,406,000.0000  DI-2110 STATE UI WITHDRAW   3264152       NY                       
+              09/30/2008                   458,410.7100  CO-1110 STATE DEPOSITS      3264154       NY                       
+              09/30/2008                -2,057,220.9000  DI-3480 FEDTAX W/D FROM U   3264161       NY                       
+              09/30/2008                -7,124,000.0000  DI-2110 STATE UI WITHDRAW   3264162       NY                       
+              09/30/2008                         0.0000                              3264166       NY                       
+              09/30/2008                 7,480,731.6000  CO-5440 DIST QUART EARNIN   3264185       NY                       
+    Ending                             475,764,808.5800                                            NY                       
+ 

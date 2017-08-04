@@ -1,0 +1,69 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                            6,955,374.6800                                            AL                       
+              10/03/2011                   -57,593.4400  CO-5440 DIST QUART EARNIN   3282674       AL                       
+              10/03/2011                   180,000.0000  CO-1110 STATE DEPOSITS      3282675       AL                       
+              10/03/2011                   -99,000.0000  DI-2110 STATE UI WITHDRAW   3282696       AL                       
+              10/04/2011                    42,000.0000  CO-1110 STATE DEPOSITS      3282698       AL                       
+              10/04/2011                  -180,000.0000  DI-2110 STATE UI WITHDRAW   3282699       AL                       
+              10/05/2011                   727,000.0000  CO-1110 STATE DEPOSITS      3282702       AL                       
+              10/06/2011                   508,000.0000  CO-1110 STATE DEPOSITS      3282722       AL                       
+              10/06/2011                  -364,550.0000  DI-2110 STATE UI WITHDRAW   3282739       AL                       
+              10/07/2011                   580,000.0000  CO-1110 STATE DEPOSITS      3282741       AL                       
+              10/07/2011                  -228,200.0000  DI-2110 STATE UI WITHDRAW   3282764       AL                       
+              10/11/2011                   322,000.0000  CO-1110 STATE DEPOSITS      3282766       AL                       
+              10/11/2011                -1,264,249.9900  DI-2110 STATE UI WITHDRAW   3282789       AL                       
+              10/12/2011                   413,000.0000  CO-1110 STATE DEPOSITS      3282791       AL                       
+              10/12/2011                  -335,873.4500  DI-2110 STATE UI WITHDRAW   3282808       AL                       
+              10/13/2011                 1,729,000.0000  CO-1110 STATE DEPOSITS      3282810       AL                       
+              10/13/2011                  -393,700.0000  DI-2110 STATE UI WITHDRAW   3282827       AL                       
+              10/14/2011                 1,126,000.0000  CO-1110 STATE DEPOSITS      3282829       AL                       
+              10/14/2011                  -260,600.0000  DI-2110 STATE UI WITHDRAW   3282850       AL                       
+              10/17/2011                   657,000.0000  CO-1110 STATE DEPOSITS      3282852       AL                       
+              10/17/2011                  -303,900.0000  DI-2110 STATE UI WITHDRAW   3282873       AL                       
+              10/17/2011                    -8,200.3700  DI-3460 CWC OUT             3282874       AL                       
+              10/17/2011                    -1,446.2900  DI-3460 CWC OUT             3282875       AL                       
+              10/18/2011                 1,100,000.0000  CO-1110 STATE DEPOSITS      3282877       AL                       
+              10/18/2011                -2,892,222.8400  DI-2110 STATE UI WITHDRAW   3282894       AL                       
+              10/18/2011                    -1,586.6000  DI-3460 CWC OUT             3282895       AL                       
+              10/18/2011                       -28.3800  DI-3460 CWC OUT             3282896       AL                       
+              10/18/2011                    -9,321.2200  DI-3460 CWC OUT             3282897       AL                       
+              10/18/2011                   -31,376.5900  DI-3460 CWC OUT             3282898       AL                       
+              10/18/2011                   -22,617.7200  DI-3460 CWC OUT             3282899       AL                       
+              10/19/2011                   884,000.0000  CO-1110 STATE DEPOSITS      3282901       AL                       
+              10/19/2011                  -540,600.0000  DI-2110 STATE UI WITHDRAW   3282918       AL                       
+              10/20/2011                   857,000.0000  CO-1110 STATE DEPOSITS      3282920       AL                       
+              10/20/2011                  -446,950.0000  DI-2110 STATE UI WITHDRAW   3282937       AL                       
+              10/21/2011                   844,000.0000  CO-1110 STATE DEPOSITS      3282939       AL                       
+              10/21/2011                  -255,000.0000  DI-2110 STATE UI WITHDRAW   3282960       AL                       
+              10/24/2011                 1,009,000.0000  CO-1110 STATE DEPOSITS      3282962       AL                       
+              10/24/2011                  -275,000.0000  DI-2110 STATE UI WITHDRAW   3282983       AL                       
+              10/25/2011                 1,218,000.0000  CO-1110 STATE DEPOSITS      3282985       AL                       
+              10/25/2011                -3,176,450.0000  DI-2110 STATE UI WITHDRAW   3283002       AL                       
+              10/26/2011                 1,712,000.0000  CO-1110 STATE DEPOSITS      3283004       AL                       
+              10/26/2011                  -614,850.0000  DI-2110 STATE UI WITHDRAW   3283021       AL                       
+              10/26/2011                   475,969.3000  CO-3461 CWC IN              3283022       AL                       
+              10/27/2011                 1,646,000.0000  CO-1110 STATE DEPOSITS      3283024       AL                       
+              10/27/2011                  -364,500.0000  DI-2110 STATE UI WITHDRAW   3283041       AL                       
+              10/27/2011                       668.9400  CO-3461 CWC IN              3283042       AL                       
+              10/27/2011                     2,897.5200  CO-3461 CWC IN              3283043       AL                       
+              10/27/2011                     2,332.6200  CO-3461 CWC IN              3283044       AL                       
+              10/27/2011                    10,762.4700  CO-3461 CWC IN              3283045       AL                       
+              10/27/2011                       310.0700  CO-3461 CWC IN              3283046       AL                       
+              10/27/2011                    13,530.5100  CO-3461 CWC IN              3283047       AL                       
+              10/28/2011                 2,624,000.0000  CO-1110 STATE DEPOSITS      3283049       AL                       
+              10/28/2011                  -291,450.0000  DI-2110 STATE UI WITHDRAW   3283070       AL                       
+              10/28/2011                    16,227.7200  CO-3461 CWC IN              3283071       AL                       
+              10/28/2011                     1,985.9000  CO-3461 CWC IN              3283072       AL                       
+              10/31/2011                 2,094,000.0000  CO-1110 STATE DEPOSITS      3283074       AL                       
+              10/31/2011                  -279,000.0000  DI-2110 STATE UI WITHDRAW   3283095       AL                       
+              10/31/2011                   172,496.8200  CO-3461 CWC IN              3283096       AL                       
+              10/31/2011                     9,352.4100  CO-3461 CWC IN              3283097       AL                       
+              10/31/2011                     5,967.0200  CO-3461 CWC IN              3283098       AL                       
+              10/31/2011                     4,772.5700  CO-3461 CWC IN              3283099       AL                       
+    Ending                              15,246,381.6600                                            AL                       
+ 

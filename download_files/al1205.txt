@@ -1,0 +1,53 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                          272,072,387.2500                                            AL                       
+              12/01/2005                   142,000.0000  CO-1110 STATE DEPOSITS      2405557       AL                       
+              12/01/2005                  -423,000.0000  DI-2110 STATE UI WITHDRAW   2405614       AL                       
+              12/01/2005                  -394,654.9600  DI-3460 CWC OUT             2405777       AL                       
+              12/01/2005                    52,991.3000  CO-3461 CWC IN              2405820       AL                       
+              12/02/2005                    65,000.0000  CO-1110 STATE DEPOSITS      2406795       AL                       
+              12/02/2005                  -187,000.0000  DI-2110 STATE UI WITHDRAW   2406875       AL                       
+              12/05/2005                    45,000.0000  CO-1110 STATE DEPOSITS      2407544       AL                       
+              12/05/2005                -1,775,000.0000  DI-2110 STATE UI WITHDRAW   2407619       AL                       
+              12/06/2005                    37,000.0000  CO-1110 STATE DEPOSITS      2407964       AL                       
+              12/06/2005                -1,179,500.0000  DI-2110 STATE UI WITHDRAW   2431556       AL                       
+              12/07/2005                    41,000.0000  CO-1110 STATE DEPOSITS      2432964       AL                       
+              12/07/2005                  -479,500.0000  DI-2110 STATE UI WITHDRAW   2433050       AL                       
+              12/08/2005                   337,000.0000  CO-1110 STATE DEPOSITS      2433722       AL                       
+              12/08/2005                  -336,000.0000  DI-2110 STATE UI WITHDRAW   2433812       AL                       
+              12/09/2005                   195,000.0000  CO-1110 STATE DEPOSITS      2434497       AL                       
+              12/09/2005                  -141,000.0000  DI-2110 STATE UI WITHDRAW   2434589       AL                       
+              12/12/2005                     6,600.0000  CO-1110 STATE DEPOSITS      2436400       AL                       
+              12/12/2005                -1,611,000.0000  DI-2110 STATE UI WITHDRAW   2436462       AL                       
+              12/13/2005                   113,000.0000  CO-1110 STATE DEPOSITS      2436651       AL                       
+              12/13/2005                -1,309,500.0000  DI-2110 STATE UI WITHDRAW   2436848       AL                       
+              12/14/2005                    96,000.0000  CO-1110 STATE DEPOSITS      2437536       AL                       
+              12/14/2005                  -461,000.0000  DI-2110 STATE UI WITHDRAW   2437598       AL                       
+              12/15/2005                   282,000.0000  CO-1110 STATE DEPOSITS      2438311       AL                       
+              12/15/2005                  -272,000.0000  DI-2110 STATE UI WITHDRAW   2438388       AL                       
+              12/16/2005                   202,000.0000  CO-1110 STATE DEPOSITS      2439052       AL                       
+              12/16/2005                  -119,500.0000  DI-2110 STATE UI WITHDRAW   2439111       AL                       
+              12/19/2005                    64,000.0000  CO-1110 STATE DEPOSITS      2439805       AL                       
+              12/19/2005                -1,658,000.0000  DI-2110 STATE UI WITHDRAW   2439868       AL                       
+              12/20/2005                    96,000.0000  CO-1110 STATE DEPOSITS      2441331       AL                       
+              12/20/2005                -1,298,000.0000  DI-2110 STATE UI WITHDRAW   2441405       AL                       
+              12/21/2005                   128,000.0000  CO-1110 STATE DEPOSITS      2441593       AL                       
+              12/21/2005                  -480,000.0000  DI-2110 STATE UI WITHDRAW   2442573       AL                       
+              12/22/2005                   160,000.0000  CO-1110 STATE DEPOSITS      2442878       AL                       
+              12/22/2005                  -255,000.0000  DI-2110 STATE UI WITHDRAW   2442946       AL                       
+              12/23/2005                    85,000.0000  CO-1110 STATE DEPOSITS      2443142       AL                       
+              12/23/2005                  -135,000.0000  DI-2110 STATE UI WITHDRAW   2444096       AL                       
+              12/27/2005                  -282,000.0000  CO-1110 STATE DEPOSITS      2444371       AL                       
+              12/27/2005                -2,511,500.0000  DI-2110 STATE UI WITHDRAW   2444443       AL                       
+              12/28/2005                  -850,500.0000  DI-2110 STATE UI WITHDRAW   2447886       AL                       
+              12/29/2005                   241,000.0000  CO-1110 STATE DEPOSITS      2448211       AL                       
+              12/29/2005                  -464,000.0000  DI-2110 STATE UI WITHDRAW   2448279       AL                       
+              12/30/2005                  -250,000.0000  DI-2110 STATE UI WITHDRAW   2448688       AL                       
+              12/31/2005                         0.0000                              2448996       AL                       
+              12/31/2005                 3,106,893.1000  CO-5440 DIST QUART EARNIN   2449209       AL                       
+    Ending                             260,695,216.6900                                            AL                       
+ 

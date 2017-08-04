@@ -1,0 +1,89 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                          558,749,687.2870                                            NY                       
+              12/01/2015                    30,073.4300  11-10 STATE DEPOSITS        3308453       NY                       
+              12/01/2015                   411,410.5300  11-10 STATE DEPOSITS        3308454       NY                       
+              12/01/2015               -12,253,000.0000  21-10 STATE UI WITHDRAWAL   3308471       NY                       
+              12/01/2015                   -10,160.4300  34-60 CWC OUT               3308472       NY                       
+              12/02/2015                   559,439.8000  11-10 STATE DEPOSITS        3308474       NY                       
+              12/02/2015                    28,806.0600  11-10 STATE DEPOSITS        3308475       NY                       
+              12/02/2015               -17,068,000.0000  21-10 STATE UI WITHDRAWAL   3308492       NY                       
+              12/03/2015                    65,845.0600  11-10 STATE DEPOSITS        3308494       NY                       
+              12/03/2015                   235,746.3400  11-10 STATE DEPOSITS        3308495       NY                       
+              12/03/2015                -8,947,000.0000  21-10 STATE UI WITHDRAWAL   3308512       NY                       
+              12/04/2015                    52,108.3300  11-10 STATE DEPOSITS        3308514       NY                       
+              12/04/2015                   422,187.1700  11-10 STATE DEPOSITS        3308515       NY                       
+              12/04/2015                -3,358,000.0000  21-10 STATE UI WITHDRAWAL   3308536       NY                       
+              12/04/2015                   -22,070.9300  34-60 CWC OUT               3308537       NY                       
+              12/07/2015                    42,109.2500  11-10 STATE DEPOSITS        3308539       NY                       
+              12/07/2015                   312,972.3800  11-10 STATE DEPOSITS        3308540       NY                       
+              12/07/2015                -2,357,000.0000  21-10 STATE UI WITHDRAWAL   3308561       NY                       
+              12/07/2015                   353,860.0000  34-61 CWC IN                3308562       NY                       
+              12/08/2015                    54,888.0500  11-10 STATE DEPOSITS        3308564       NY                       
+              12/08/2015                   427,132.4100  11-10 STATE DEPOSITS        3308565       NY                       
+              12/08/2015               -11,148,000.0000  21-10 STATE UI WITHDRAWAL   3308582       NY                       
+              12/08/2015                    51,457.9600  34-61 CWC IN                3308583       NY                       
+              12/09/2015                    73,653.7500  11-10 STATE DEPOSITS        3308585       NY                       
+              12/09/2015                    36,000.5800  11-10 STATE DEPOSITS        3308586       NY                       
+              12/09/2015               -16,591,000.0000  21-10 STATE UI WITHDRAWAL   3308603       NY                       
+              12/10/2015                    69,809.2100  11-10 STATE DEPOSITS        3308605       NY                       
+              12/10/2015                   458,988.5600  11-10 STATE DEPOSITS        3308606       NY                       
+              12/10/2015                -8,865,000.0000  21-10 STATE UI WITHDRAWAL   3308623       NY                       
+              12/11/2015                    73,452.8800  11-10 STATE DEPOSITS        3308625       NY                       
+              12/11/2015                   392,116.8200  11-10 STATE DEPOSITS        3308626       NY                       
+              12/11/2015                -3,314,650.0000  21-10 STATE UI WITHDRAWAL   3308647       NY                       
+              12/11/2015                    10,732.9700  34-61 CWC IN                3308648       NY                       
+              12/14/2015                    95,244.0500  11-10 STATE DEPOSITS        3308650       NY                       
+              12/14/2015                   637,338.5100  11-10 STATE DEPOSITS        3308651       NY                       
+              12/14/2015                -2,423,350.0000  21-10 STATE UI WITHDRAWAL   3308672       NY                       
+              12/14/2015                   -62,753.8100  34-60 CWC OUT               3308673       NY                       
+              12/15/2015                   201,751.7200  11-10 STATE DEPOSITS        3308675       NY                       
+              12/15/2015                   640,608.9300  11-10 STATE DEPOSITS        3308676       NY                       
+              12/15/2015               -11,380,000.0000  21-10 STATE UI WITHDRAWAL   3308693       NY                       
+              12/16/2015                   121,882.6700  11-10 STATE DEPOSITS        3308695       NY                       
+              12/16/2015                   573,901.2700  11-10 STATE DEPOSITS        3308696       NY                       
+              12/16/2015               -16,964,000.0000  21-10 STATE UI WITHDRAWAL   3308713       NY                       
+              12/16/2015                   389,511.9600  31-20 REFUND OF REDUCED T   3308714       NY                       
+              12/17/2015                    54,553.7500  11-10 STATE DEPOSITS        3308716       NY                       
+              12/17/2015                 1,510,420.4300  11-10 STATE DEPOSITS        3308717       NY                       
+              12/17/2015                -9,116,660.0000  21-10 STATE UI WITHDRAWAL   3308734       NY                       
+              12/18/2015                   135,731.2400  11-10 STATE DEPOSITS        3308736       NY                       
+              12/18/2015                 1,192,625.6000  11-10 STATE DEPOSITS        3308737       NY                       
+              12/18/2015                -3,333,340.0000  21-10 STATE UI WITHDRAWAL   3308758       NY                       
+              12/21/2015                    31,239.6400  11-10 STATE DEPOSITS        3308760       NY                       
+              12/21/2015                   466,607.0900  11-10 STATE DEPOSITS        3308761       NY                       
+              12/21/2015                -2,386,000.0000  21-10 STATE UI WITHDRAWAL   3308782       NY                       
+              12/21/2015                    64,996.2900  34-61 CWC IN                3308783       NY                       
+              12/22/2015                   385,412.6400  11-10 STATE DEPOSITS        3308785       NY                       
+              12/22/2015                -8,418,000.0000  21-10 STATE UI WITHDRAWAL   3308802       NY                       
+              12/23/2015                   118,962.1100  11-10 STATE DEPOSITS        3308804       NY                       
+              12/23/2015                   208,437.0000  11-10 STATE DEPOSITS        3308805       NY                       
+              12/23/2015               -17,675,640.0000  21-10 STATE UI WITHDRAWAL   3308822       NY                       
+              12/23/2015               -66,912,000.0000  34-10 BT FROM UI            3308823       NY                       
+              12/23/2015                -2,000,000.0000  11-10 STATE DEPOSITS        3308825       NY                       
+              12/24/2015                    77,341.3300  11-10 STATE DEPOSITS        3308827       NY                       
+              12/24/2015                   379,499.0800  11-10 STATE DEPOSITS        3308828       NY                       
+              12/24/2015                -9,229,020.0000  21-10 STATE UI WITHDRAWAL   3308851       NY                       
+              12/24/2015                    10,985.6900  34-61 CWC IN                3308852       NY                       
+              12/28/2015                    85,427.6800  11-10 STATE DEPOSITS        3308854       NY                       
+              12/28/2015                   287,161.8100  11-10 STATE DEPOSITS        3308855       NY                       
+              12/28/2015                -3,427,340.0000  21-10 STATE UI WITHDRAWAL   3308878       NY                       
+              12/29/2015                    54,671.7500  11-10 STATE DEPOSITS        3308880       NY                       
+              12/29/2015                   737,484.1100  11-10 STATE DEPOSITS        3308881       NY                       
+              12/29/2015               -14,706,000.0000  21-10 STATE UI WITHDRAWAL   3308898       NY                       
+              12/29/2015                  -102,452.2100  34-60 CWC OUT               3308899       NY                       
+              12/30/2015                    94,655.6900  11-10 STATE DEPOSITS        3308901       NY                       
+              12/30/2015                   567,719.0500  11-10 STATE DEPOSITS        3308902       NY                       
+              12/30/2015               -20,610,560.0000  21-10 STATE UI WITHDRAWAL   3308919       NY                       
+              12/30/2015                -4,507,107.1200  34-60 CWC OUT               3308920       NY                       
+              12/31/2015                   193,776.8400  11-10 STATE DEPOSITS        3308921       NY                       
+              12/31/2015                   233,449.8000  11-10 STATE DEPOSITS        3308922       NY                       
+              12/31/2015                -9,750,440.0000  21-10 STATE UI WITHDRAWAL   3308968       NY                       
+              12/31/2015                         0.0000                              3308990       NY                       
+              12/31/2015                 2,537,629.7300  54-40 DIST QUART EARNINGS   3308991       NY                       
+    Ending                             288,062,961.7870                                            NY                       
+ 

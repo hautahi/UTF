@@ -1,0 +1,59 @@
+Final Report
+
+                                                         Transaction
+              Effective Date                 Shares/Par  Description Code           Memo Number    Account Number
+              ---------------  ------------------------  -------------------------  -------------  -------------------------
+UNITS - PARTICIPATING UNITS       
+    Beginning                          260,102,019.7200                                            AL                       
+              03/01/2006                   104,000.0000  CO-1110 STATE DEPOSITS      2499243       AL                       
+              03/01/2006                   -98,662.3200  DI-3460 CWC OUT             2499459       AL                       
+              03/01/2006                   -15,202.2400  DI-3460 CWC OUT             2499461       AL                       
+              03/01/2006                  -435,000.0000  DI-2110 STATE UI WITHDRAW   2499481       AL                       
+              03/02/2006                   238,000.0000  CO-1110 STATE DEPOSITS      2500151       AL                       
+              03/02/2006                  -285,000.0000  DI-2110 STATE UI WITHDRAW   2500252       AL                       
+              03/03/2006                   116,000.0000  CO-1110 STATE DEPOSITS      2500940       AL                       
+              03/03/2006                  -193,000.0000  DI-2110 STATE UI WITHDRAW   2501089       AL                       
+              03/06/2006                   115,000.0000  CO-1110 STATE DEPOSITS      2501765       AL                       
+              03/06/2006                   -52,591.8200  DI-3460 CWC OUT             2501859       AL                       
+              03/06/2006                   -89,705.2700  DI-3460 CWC OUT             2501861       AL                       
+              03/06/2006                   -61,415.3900  DI-3460 CWC OUT             2501863       AL                       
+              03/06/2006                -1,734,300.0000  DI-2110 STATE UI WITHDRAW   2501892       AL                       
+              03/07/2006                    80,000.0000  CO-1110 STATE DEPOSITS      2504107       AL                       
+              03/07/2006                  -750,600.0000  DI-2110 STATE UI WITHDRAW   2504248       AL                       
+              03/07/2006                  -442,800.0000  DI-2110 STATE UI WITHDRAW   2504249       AL                       
+              03/08/2006                  -419,600.0000  DI-2110 STATE UI WITHDRAW   2504649       AL                       
+              03/09/2006                   -30,394.0000  DI-3410 BT FROM UI          2504897       AL                       
+              03/09/2006                  -144,000.0000  DI-2110 STATE UI WITHDRAW   2505113       AL                       
+              03/10/2006                  -112,700.0000  DI-2110 STATE UI WITHDRAW   2515848       AL                       
+              03/13/2006                    18,000.0000  CO-1110 STATE DEPOSITS      2516186       AL                       
+              03/13/2006                -1,742,000.0000  DI-2110 STATE UI WITHDRAW   2516701       AL                       
+              03/14/2006                    56,000.0000  CO-1110 STATE DEPOSITS      2518166       AL                       
+              03/14/2006                  -130,389.8300  DI-3460 CWC OUT             2518271       AL                       
+              03/14/2006                -1,044,000.0000  DI-2110 STATE UI WITHDRAW   2518279       AL                       
+              03/15/2006                    36,000.0000  CO-1110 STATE DEPOSITS      2518969       AL                       
+              03/15/2006                  -432,000.0000  DI-2110 STATE UI WITHDRAW   2519081       AL                       
+              03/16/2006                    24,000.0000  CO-1110 STATE DEPOSITS      2519761       AL                       
+              03/16/2006                  -315,000.0000  DI-2110 STATE UI WITHDRAW   2519867       AL                       
+              03/17/2006                  -131,600.0000  DI-2110 STATE UI WITHDRAW   2520659       AL                       
+              03/20/2006                -1,832,500.0000  DI-2110 STATE UI WITHDRAW   2522613       AL                       
+              03/21/2006                -1,056,000.0000  DI-2110 STATE UI WITHDRAW   2522996       AL                       
+              03/22/2006                   -85,398.1800  DI-3460 CWC OUT             2523716       AL                       
+              03/22/2006                  -450,000.0000  DI-2110 STATE UI WITHDRAW   2523720       AL                       
+              03/23/2006                    50,000.0000  CO-1110 STATE DEPOSITS      2524431       AL                       
+              03/23/2006                  -198,500.0000  DI-2110 STATE UI WITHDRAW   2524512       AL                       
+              03/24/2006                    75,000.0000  CO-1110 STATE DEPOSITS      2525199       AL                       
+              03/24/2006                  -109,000.0000  DI-2110 STATE UI WITHDRAW   2525284       AL                       
+              03/27/2006                    42,000.0000  CO-1110 STATE DEPOSITS      2525989       AL                       
+              03/27/2006                -1,759,500.0000  DI-2110 STATE UI WITHDRAW   2526093       AL                       
+              03/28/2006                    55,000.0000  CO-1110 STATE DEPOSITS      2527538       AL                       
+              03/28/2006                -1,118,500.0000  DI-2110 STATE UI WITHDRAW   2527635       AL                       
+              03/29/2006                    23,000.0000  CO-1110 STATE DEPOSITS      2528317       AL                       
+              03/29/2006                  -486,000.0000  DI-2110 STATE UI WITHDRAW   2528357       AL                       
+              03/30/2006                    39,000.0000  CO-1110 STATE DEPOSITS      2529097       AL                       
+              03/30/2006                  -242,000.0000  DI-2110 STATE UI WITHDRAW   2529198       AL                       
+              03/31/2006                    67,000.0000  CO-1110 STATE DEPOSITS      2529882       AL                       
+              03/31/2006                  -221,600.0000  DI-2110 STATE UI WITHDRAW   2529969       AL                       
+              03/31/2006                         0.0000                              2530648       AL                       
+              03/31/2006                 3,002,438.3600  CO-5440 DIST QUART EARNIN   2530799       AL                       
+    Ending                             248,023,499.0300                                            AL                       
+ 
