@@ -42,6 +42,8 @@ for (s in sfiles) {
   opbal = c()
   dates = c()
   trans = c()
+  type=c()
+  dt=c()
   
   for (f in files){
     # read txt file
@@ -59,11 +61,17 @@ for (s in sfiles) {
     
     # Extract dates and transactions
     dates=c(dates,word(d,1,1))
+    type=c(type,word(d,4,-3))
     trans=c(trans,word(d,2,2))
+    
+    # mon = str_sub(f,-8,-7)
+    # yea = str_sub(f,-6,-5)
+    dt = c(dt,paste0(str_sub(f,-8,-7),"/01/20",str_sub(f,-6,-5)))
+    
   }
   
-  df = data.frame(date1=dates,date=as.Date(dates,"%m/%d/%Y"),trans=as.numeric(gsub(",","",trans)))
-  dbal = data.frame(bal=as.numeric(gsub(",","",opbal)))
+  df = data.frame(date1=dates,date=as.Date(dates,"%m/%d/%Y"),type=type,trans=as.numeric(gsub(",","",trans)))
+  dbal = data.frame(date1=dt,date=as.Date(dt,"%m/%d/%Y"),bal=as.numeric(gsub(",","",opbal)))
   
   # Save dataframes
   write.csv(df,paste0("./data/",s,"_transactions.csv"),row.names = F)
@@ -74,6 +82,9 @@ for (s in sfiles) {
 # --------------------------------------
 # Analysis and Plots
 # --------------------------------------
+
+# Read in data
+d1 <- read.csv("./data/ny_transactions.csv",stringsAsFactors = F)
 
 library(zoo) 
 d1 <- df %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(trans>0) %>% group_by(year,month) %>%
