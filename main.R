@@ -4,6 +4,7 @@
 library(stringr)
 library(ggplot2)
 library(dplyr)
+library(zoo)
 
 # --------------------------------------
 # Download files
@@ -64,8 +65,6 @@ for (s in sfiles) {
     type=c(type,word(d,4,-3))
     trans=c(trans,word(d,2,2))
     
-    # mon = str_sub(f,-8,-7)
-    # yea = str_sub(f,-6,-5)
     dt = c(dt,paste0(str_sub(f,-8,-7),"/01/20",str_sub(f,-6,-5)))
     
   }
@@ -75,40 +74,109 @@ for (s in sfiles) {
   
   # Save dataframes
   write.csv(df,paste0("./data/",s,"_transactions.csv"),row.names = F)
-  write.csv(dbal,paste0("./data/",s,"_balances.csv"),row.names = F)
+  write.csv(arrange(dbal,date),paste0("./data/",s,"_balances.csv"),row.names = F)
   
 }
 
 # --------------------------------------
-# Analysis and Plots
+# Create Monthly Dataset
 # --------------------------------------
 
 # Read in data
-d1 <- read.csv("./data/ny_transactions.csv",stringsAsFactors = F)
+dtrans <- read.csv("./data/ny_transactions.csv",stringsAsFactors = F) %>% mutate(date=as.Date(date1,"%m/%d/%Y"))
+dbal <- read.csv("./data/ny_balances.csv",stringsAsFactors = F) %>% mutate(date=as.Date(date1,"%m/%d/%Y"))
 
-library(zoo) 
-d1 <- df %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(trans>0) %>% group_by(year,month) %>%
-  summarise(mean_pos=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="positive") %>% ungroup() %>% select(mean_pos,date)
+# Create deposits
+d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(trans>0) %>% group_by(year,month) %>%
+  summarise(dep=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="positive") %>% ungroup() %>% select(dep,date)
 
-d <- df %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(trans<0) %>% group_by(year,month) %>%
-  summarise(mean_neg=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="negative") %>% ungroup() %>% select(mean_neg,date) %>%
-  left_join(d1,by="date") %>% mutate(balance=dbal$bal)
+# Create state deposits
+d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(type=="STATE DEPOSITS") %>% group_by(year,month) %>%
+  summarise(state_dep=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="negative") %>% ungroup() %>% select(state_dep,date) %>%
+  left_join(d,by="date")
 
+# Create Withdrawals
+d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(trans<0) %>% group_by(year,month) %>%
+  summarise(withd=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="negative") %>% ungroup() %>% select(withd,date,month,year) %>%
+  left_join(d,by="date")
 
-df %>%
-  filter(!(abs(trans - median(trans)) > 2*sd(trans))) %>% filter(date > "2006-01-01" & date <"2009-01-01") %>%
-  ggplot(aes(date, trans)) + geom_line() +
-  xlab("") + ylab("Daily Views")
+# Create state withdrawals
+d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(type=="STATE UI WITHDRAW") %>% group_by(year,month) %>%
+  summarise(state_withd=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="negative") %>% ungroup() %>% select(state_withd,date) %>%
+  left_join(d,by="date")
 
-d %>%
-  ggplot(aes(date, mean_pos)) + geom_line() +
-  xlab("") + ylab("Daily Views")
+# Create other transactions
+d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(type!="STATE UI WITHDRAW",type!="STATE DEPOSITS") %>% group_by(year,month) %>%
+  summarise(other=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="negative") %>% ungroup() %>% select(other,date) %>%
+  left_join(d,by="date")
 
-d %>% filter(date > "2006-01-01" & date <"2012-01-01") %>%
+# Merge with balances (shifted back one month to make them closing balances)
+d <- dbal %>% mutate(date=date-1/12,month = format(date, "%m"), year = format(date, "%Y")) %>% select(-date) %>%
+  left_join(d,by=c("month","year"))
+
+# --------------------------------------
+# Create Annual Dataset
+# --------------------------------------
+
+# Create deposits
+da <- dtrans %>% mutate(year = format(date, "%Y")) %>% filter(trans>0) %>% group_by(year) %>%
+  summarise(dep=sum(trans)) %>% ungroup() %>% select(dep,year)
+
+# Create state deposits
+da <- dtrans %>% mutate( year = format(date, "%Y")) %>% filter(type=="STATE DEPOSITS") %>% group_by(year) %>%
+  summarise(state_dep=sum(trans)) %>% ungroup() %>% select(state_dep,year) %>%
+  left_join(da,by="year")
+
+# Create Withdrawals
+da <- dtrans %>% mutate(year = format(date, "%Y")) %>% filter(trans<0) %>% group_by(year) %>%
+  summarise(withd=sum(trans)) %>% ungroup() %>% select(withd,year) %>%
+  left_join(da,by="year")
+
+# Create state withdrawals
+da <- dtrans %>% mutate( year = format(date, "%Y")) %>% filter(type=="STATE UI WITHDRAW"|type=="STATE UI WITHDRAWAL") %>% group_by(year) %>%
+  summarise(state_withd=sum(trans)) %>% ungroup() %>% select(state_withd,year) %>%
+  left_join(da,by="year")
+
+# Create other transactions
+da <- dtrans %>% mutate( year = format(date, "%Y")) %>% filter(type!="STATE UI WITHDRAW",type!="STATE UI WITHDRAWAL",type!="STATE DEPOSITS") %>%
+  group_by(year) %>% summarise(other=sum(trans)) %>% ungroup() %>% select(other,year) %>%
+  left_join(da,by="year")
+
+# Merge with balances (shifted back one month to make them closing balances)
+da <- dbal %>% mutate(date=date-1/12,month = format(date, "%m"), year = format(date, "%Y")) %>% filter(month==12) %>%
+  select(bal,year) %>% left_join(da,by="year")
+
+# --------------------------------------
+# Plot
+# --------------------------------------
+
+dfactor=1000000
+
+d %>% filter(date > "2007-01-01" & date <"2011-01-01") %>%
   ggplot() + 
-  geom_line(aes(x = date, y = mean_pos), color = "red") +
-  geom_line(aes(x = date, y = mean_neg), color = "blue") +
-  #geom_line(aes(x = date, y = balance), color = "blue") +
+  geom_bar(stat="identity",aes(x = date, y = bal/dfactor),alpha=0.75) +
+  geom_line(aes(x = date, y = dep/dfactor), color = "blue",size=1.2) +
+  geom_line(aes(x = date, y = -withd/dfactor), color = "red",size=1.2) +
   xlab('') +
-  ylab('percent.change')
+  ylab('percent.change') + theme_bw() +
+  theme(legend.title=element_blank(),
+        axis.ticks.x=element_blank(),
+        legend.position="bottom",
+        #panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank())
 
+da %>%
+  ggplot() + 
+  geom_bar(stat="identity",aes(x = year, y = bal/dfactor),alpha=0.75) +
+  geom_line(aes(x = year, y = state_dep/dfactor,group=1), color = "blue",size=1.2) +
+  geom_line(aes(x = year, y = -state_withd/dfactor,group=1), color = "red",size=1.2) +
+  geom_line(aes(x = year, y = other/dfactor,group=1), color = "black",size=1.2) +
+  xlab('') +
+  ylab('percent.change') + theme_bw() +
+  theme(legend.title=element_blank(),
+        axis.ticks.x=element_blank(),
+        legend.position="bottom",
+        #panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank())
