@@ -83,8 +83,14 @@ for (s in sfiles) {
 # --------------------------------------
 
 # Read in data
-dtrans <- read.csv("./data/ny_transactions.csv",stringsAsFactors = F) %>% mutate(date=as.Date(date1,"%m/%d/%Y"))
-dbal <- read.csv("./data/ny_balances.csv",stringsAsFactors = F) %>% mutate(date=as.Date(date1,"%m/%d/%Y"))
+
+get_graph=function(s){
+
+transname = paste0("./data/",s,"_transactions.csv")
+balname = paste0("./data/",s,"_balances.csv")
+
+dtrans <- read.csv(transname,stringsAsFactors = F) %>% mutate(date=as.Date(date1,"%m/%d/%Y"))
+dbal <- read.csv(balname,stringsAsFactors = F) %>% mutate(date=as.Date(date1,"%m/%d/%Y"))
 
 # Create deposits
 d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(trans>0) %>% group_by(year,month) %>%
@@ -93,90 +99,58 @@ d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>
 # Create state deposits
 d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(type=="STATE DEPOSITS") %>% group_by(year,month) %>%
   summarise(state_dep=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="negative") %>% ungroup() %>% select(state_dep,date) %>%
-  left_join(d,by="date")
+  left_join(d,.,by="date")
 
 # Create Withdrawals
 d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(trans<0) %>% group_by(year,month) %>%
   summarise(withd=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="negative") %>% ungroup() %>% select(withd,date,month,year) %>%
-  left_join(d,by="date")
+  left_join(d,.,by="date")
 
 # Create state withdrawals
 d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(type=="STATE UI WITHDRAW") %>% group_by(year,month) %>%
   summarise(state_withd=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="negative") %>% ungroup() %>% select(state_withd,date) %>%
-  left_join(d,by="date")
+  left_join(d,.,by="date")
 
 # Create other transactions
-d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(type!="STATE UI WITHDRAW",type!="STATE DEPOSITS") %>% group_by(year,month) %>%
-  summarise(other=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="negative") %>% ungroup() %>% select(other,date) %>%
-  left_join(d,by="date")
+d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>% filter(type!="STATE UI WITHDRAW"&type!="STATE DEPOSITS") %>% group_by(year,month) %>%
+  summarise(other=sum(trans)) %>% mutate(date=as.yearmon(paste(year, month, sep = "-")),type="other") %>% ungroup() %>% select(other,date) %>%
+  left_join(d,.,by="date")
 
 # Merge with balances (shifted back one month to make them closing balances)
 d <- dbal %>% mutate(date=date-1/12,month = format(date, "%m"), year = format(date, "%Y")) %>% select(-date) %>%
   left_join(d,by=c("month","year"))
 
 # --------------------------------------
-# Create Annual Dataset
-# --------------------------------------
-
-# Create deposits
-da <- dtrans %>% mutate(year = format(date, "%Y")) %>% filter(trans>0) %>% group_by(year) %>%
-  summarise(dep=sum(trans)) %>% ungroup() %>% select(dep,year)
-
-# Create state deposits
-da <- dtrans %>% mutate( year = format(date, "%Y")) %>% filter(type=="STATE DEPOSITS") %>% group_by(year) %>%
-  summarise(state_dep=sum(trans)) %>% ungroup() %>% select(state_dep,year) %>%
-  left_join(da,by="year")
-
-# Create Withdrawals
-da <- dtrans %>% mutate(year = format(date, "%Y")) %>% filter(trans<0) %>% group_by(year) %>%
-  summarise(withd=sum(trans)) %>% ungroup() %>% select(withd,year) %>%
-  left_join(da,by="year")
-
-# Create state withdrawals
-da <- dtrans %>% mutate( year = format(date, "%Y")) %>% filter(type=="STATE UI WITHDRAW"|type=="STATE UI WITHDRAWAL") %>% group_by(year) %>%
-  summarise(state_withd=sum(trans)) %>% ungroup() %>% select(state_withd,year) %>%
-  left_join(da,by="year")
-
-# Create other transactions
-da <- dtrans %>% mutate( year = format(date, "%Y")) %>% filter(type!="STATE UI WITHDRAW",type!="STATE UI WITHDRAWAL",type!="STATE DEPOSITS") %>%
-  group_by(year) %>% summarise(other=sum(trans)) %>% ungroup() %>% select(other,year) %>%
-  left_join(da,by="year")
-
-# Merge with balances (shifted back one month to make them closing balances)
-da <- dbal %>% mutate(date=date-1/12,month = format(date, "%m"), year = format(date, "%Y")) %>% filter(month==12) %>%
-  select(bal,year) %>% left_join(da,by="year")
-
-# --------------------------------------
 # Plot
 # --------------------------------------
 
+themes <- theme_bw() +
+  theme(legend.title=element_blank(),
+        axis.ticks.x=element_blank(),
+        legend.position="bottom",
+        #panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank())
+
 dfactor=1000000
 
-d %>% filter(date > "2007-01-01" & date <"2011-01-01") %>%
+g1 <- d %>% filter(date > "2007-01-01" & date <"2017-05-05") %>%
+  ggplot() + 
+  geom_bar(stat="identity",aes(x = date, y = bal/dfactor),alpha=0.75) + themes+
+  xlab('') +
+  ylab('Trust Fund Balance ($m)')
+
+g <- d %>% filter(date > "2007-01-01" & date <"2017-05-05") %>%
   ggplot() + 
   geom_bar(stat="identity",aes(x = date, y = bal/dfactor),alpha=0.75) +
   geom_line(aes(x = date, y = dep/dfactor), color = "blue",size=1.2) +
   geom_line(aes(x = date, y = -withd/dfactor), color = "red",size=1.2) +
   xlab('') +
-  ylab('percent.change') + theme_bw() +
-  theme(legend.title=element_blank(),
-        axis.ticks.x=element_blank(),
-        legend.position="bottom",
-        #panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank(),
-        panel.border = element_blank())
+  ylab('Trust Fund Balance ($m)') + themes
 
-da %>%
-  ggplot() + 
-  geom_bar(stat="identity",aes(x = year, y = bal/dfactor),alpha=0.75) +
-  geom_line(aes(x = year, y = state_dep/dfactor,group=1), color = "blue",size=1.2) +
-  geom_line(aes(x = year, y = -state_withd/dfactor,group=1), color = "red",size=1.2) +
-  geom_line(aes(x = year, y = other/dfactor,group=1), color = "black",size=1.2) +
-  xlab('') +
-  ylab('percent.change') + theme_bw() +
-  theme(legend.title=element_blank(),
-        axis.ticks.x=element_blank(),
-        legend.position="bottom",
-        #panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank(),
-        panel.border = element_blank())
+return(list(g1,g))
+
+}
+
+ny_graphs=get_graph("ny")
+al_graphs=get_graph("al")
