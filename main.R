@@ -118,7 +118,7 @@ d <- dtrans %>% mutate(month = format(date, "%m"), year = format(date, "%Y")) %>
 
 # Merge with balances (shifted back one month to make them closing balances)
 d <- dbal %>% mutate(date=date-1/12,month = format(date, "%m"), year = format(date, "%Y")) %>% select(-date) %>%
-  left_join(d,by=c("month","year"))
+  left_join(d,by=c("month","year")) %>% mutate(date=as.yearmon(date))
 
 # --------------------------------------
 # Plot
