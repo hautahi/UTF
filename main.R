@@ -96,8 +96,10 @@ multiplot(g_ny, g_al, cols=1)
 # Plot DOL-ETA data
 # --------------------------------------
 
+# Data from https://oui.doleta.gov/unemploy/DataDownloads.asp
+
 odie <- read.csv("./data/394.csv",stringsAsFactors = F,skip = 4) %>%
-  select(state=YR, year=ST,wage=c3,cont=c8,rat=c19,cont_per=c15) %>% mutate(state=gsub(" ", "", state, fixed = TRUE))
+  select(state=YR, year=ST,wage=c3,cont=c8,rat=c19,cont_per=c15,rr=c19,hcm=c22) %>% mutate(state=gsub(" ", "", state, fixed = TRUE))
 
 # Create Plot Theme
 themes <- theme_bw() +
@@ -129,6 +131,36 @@ al=odie %>% filter(state=="AL",year>2006) %>%
   ggtitle("Alabama")
 
 multiplot(ny, al, cols=1)
+
+# --------------------------------------
+# Plot Solvency ratios
+# --------------------------------------
+
+rr=odie %>% filter(state %in% c("MA","AL","CA","TX"),year>1990) %>%
+  mutate(date=as.Date(year)) %>%
+  ggplot(aes(x=year)) + 
+  geom_line(aes(y=rr,colour = factor(state)), size = 1.5)+
+  theme_bw() +
+  theme(legend.title=element_blank(),
+        axis.ticks.x=element_blank(),
+        legend.position="none",
+        #panel.grid.major = element_blank(),
+        #panel.grid.minor = element_blank(),
+        panel.border = element_blank())+
+  xlab('') +
+  ylab('Reserve Ratio')
+
+hcm=odie %>% filter(state %in% c("MA","AL","CA","TX"),year>1990) %>%
+  mutate(date=as.Date(year)) %>%
+  ggplot(aes(x=year)) + 
+  geom_line(aes(y=hcm,colour = factor(state)), size = 1.5)+
+  themes+
+  xlab('') +
+  ylab('High Cost Multiple')
+plist=list(rr)
+
+plist[[2]]=hcm
+multiplot(plotlist=plist, cols=1)
 
 # --------------------------------------
 # Define Multiplot Function
